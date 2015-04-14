@@ -260,7 +260,7 @@ http://66.55.92.79:1935/app/chivas69s-channel/.m3u8
 http://66.55.92.79:1935/app/chivass69s-channel/.m3u8
 #EXTINF:-1 tvg-id="NY_I47.195990900.microsoft.com" tvg-name="WNJUDT47_WNJUDT47WNJUDT_(WNJU-DT)TELEMUNDO_(HBC)_Affiliate" tvg-logo="telemundo.png" group-title="Español",Telemundo
 http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
-#EXTINF:-1, tvg-logo="guiatv-prueba.png", CNN ESPAÑOL
+#EXTINF:-1, tvg-id="I228.44563062.microsoft.com" tvg-name="228 CNNESP" tvg-logo="cnn.png" group-title="Español",CNN Español
 http://187.247.255.139/Apple/CNNEspanol2500.m3u8
 #EXTINF:-1, CNN HD Chile
 rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
