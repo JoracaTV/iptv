@@ -191,9 +191,9 @@ http://200.76.77.237/LIVE/H01/CANAL258/PROFILE05.m3u8?
 #EXTINF:-1 group-title="ENTRETENIMIENTO",TNT Series
 http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
 
-#EXTINF:-1 tvg-id="SkyMX_I223.49320048.microsoft.com" tvg-name="GOURMETN223_GOURMETN223elgourmet.com__north_feedCable" tvg-logo="el-gourmet.png" group-title="EspaÃ±ol",El Gourmet
+#EXTINF:-1 tvg-id="SkyMX_I223.49320048.microsoft.com" tvg-name="GOURMETN223_GOURMETN223elgourmet.com__north_feedCable" tvg-logo="el-gourmet.png" group-title="ENTRETENIMIENTO",El Gourmet
 http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I223.49320048.microsoft.com" tvg-name="GOURMETN223_GOURMETN223elgourmet.com__north_feedCable" tvg-logo="el-gourmet.png" group-title="EspaÃ±ol",El Gourmet HD
+#EXTINF:-1 tvg-id="SkyMX_I223.49320048.microsoft.com" tvg-name="GOURMETN223_GOURMETN223elgourmet.com__north_feedCable" tvg-logo="el-gourmet.png" group-title="ENTRETENIMIENTO",El Gourmet HD
 http://200.76.77.237/LIVE/H01/CANAL268/PROFILE05.m3u8?
 #EXTINF:-1 group-title="DEPORTE",GARAGE TV
 http://200.76.77.237/LIVE/H01/CANAL269/PROFILE02.m3u8?
@@ -451,9 +451,9 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I120.199433275.microsoft.com" tvg-name="MILENIO120_MILENIO120milenio_tvLocal" tvg-logo="milenio-tv.png" group-title="NOTICIAS",Milenio TV HD
 http://200.76.77.237/LIVE/H01/CANAL603/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I630.44563402.microsoft.com" tvg-name="BTV630_BTV630bloomberg_en_espanolCable" tvg-logo="bloomberg.png" group-title="EspaÃ±ol",Bloomberg
+#EXTINF:-1 tvg-id="SkyMX_I630.44563402.microsoft.com" tvg-name="BTV630_BTV630bloomberg_en_espanolCable" tvg-logo="bloomberg.png" group-title="ENTRETENIMIENTO",Bloomberg
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I630.44563402.microsoft.com" tvg-name="BTV630_BTV630bloomberg_en_espanolCable" tvg-logo="bloomberg.png" group-title="EspaÃ±ol",Bloomberg HD
+#EXTINF:-1 tvg-id="SkyMX_I630.44563402.microsoft.com" tvg-name="BTV630_BTV630bloomberg_en_espanolCable" tvg-logo="bloomberg.png" group-title="ENTRETENIMIENTO",Bloomberg HD
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I701.241066743.microsoft.com" tvg-name="MTVLVHD701_MTVLVHD701mtv_live_hdCable" tvg-logo="mtv.png" group-title="MUSICALES",MTV
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
