@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0, [COLOR red]JCastro IPTV[/COLOR]
+#EXTINF:1, [COLOR red]JCastro IPTV[/COLOR]
 
-#EXTINF:0, [COLOR blue]Canales Nacionales[/COLOR]
+#EXTINF:1, [COLOR blue]Canales Nacionales[/COLOR]
 
 #EXTINF:-1 tvg-shift=5 tvg-id="Total_Canal 2 de Tele Antillas (Republica Dominicana)" tvg-name="Tele_Antillas" tvg-logo="teleantillas.png" group-title="NACIONALES",Tele Antillas Canal 2
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
