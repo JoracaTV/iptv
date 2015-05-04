@@ -1,7 +1,7 @@
 #EXTM3U
-************* JCastro IPTV Cable ******************
+#EXTINF:0, [COLOR blue]JCastro IPTV[/COLOR]
 
-**************CANALES TV NACIONALES********************
+#EXTINF:0, [COLOR blue]Canales Nacionales[/COLOR]
 
 #EXTINF:-1 tvg-shift=5 tvg-id="Total_Canal 2 de Tele Antillas (Republica Dominicana)" tvg-name="Tele_Antillas" tvg-logo="teleantillas.png" group-title="NACIONALES",Tele Antillas Canal 2
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
@@ -56,7 +56,7 @@ rtmp://50.7.78.138:443/live/live_azuatv
 #EXTINF:-1 group-title="NACIONALES",Super TV 55
 http://ss7.domint.net:2022/stv_str/tv55/chunklist_w1177679577.m3u8
 
-***************Emisoras Radio de Boca Chica********
+#EXTINF:0, [COLOR blue]Emisoras de Radio de Boca Chica[/COLOR]
 
 #EXTINF:-1 group-title="RADIO",Como Anoche Radio
 http://212.83.172.164:9956/;stream.nsv
@@ -68,7 +68,7 @@ http://37.59.138.137:9956/;stream.mp3
 http://streamingrd.com:8459/;?1429767457605.mp3
 
 
-***************CANALES INTERNACIONALES*************
+#EXTINF:0, [COLOR blue]Canales Internacionales[/COLOR]
 
 #EXTINF:-1 tvg-id="CVMX_I711.44563157.microsoft.com" tvg-name="CANAL_24711_CANAL_24711canal_24_horas_noticiasCable" tvg-logo="azteca-internacional.png" group-title="INTERNACIONAL",Azteca Internacional
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?
@@ -866,7 +866,7 @@ http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:-1 group-title="DEPORTE",PAC-12 Net. (Washington) 640*360
 http://xrxs.net/video/live-p12wash-1164.m3u8
 
-**************CANALES PELICULAS 24 HORAS******************
+#EXTINF:0, [COLOR blue]Canales de Peliculas 24/7[/COLOR]
 
 #EXTINF:-1, Latino Movies
 rtmp://50.7.78.138:443/live/live_latinomovies
@@ -887,7 +887,7 @@ rtmp://50.7.78.138:443/live/live_mega_movieshd
 #EXTINF:-1, Broad Movies
 rtmp://50.7.78.138:443/live/live_broadmovies
 
-#EXTINF:-1, group-title="WEBCAMS",WebCams
+#EXTINF:0, [COLOR blue]WebCams[/COLOR]
 
 #EXTINF:-1,Niagara Falls rtsp
 rtsp://video1.earthcam.com/fecnetwork/4559.flv
@@ -981,17 +981,17 @@ http://video1.earthcam.com/fecnetwork/5005.flv/hasbahca.m3u8
 http://video1.earthcam.com/fecnetwork/5732.flv/hasbahca.m3u8
 
 
-#‎EXTINF‬:-1 "Peliculas",Mobie City 2 HD
+#‎EXTINF‬:-1 group-title= "Peliculas",Mobie City 2 HD
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
-#EXTINF:-1 "Peliculas",Mobie City MAX
+#EXTINF:-1  group-title="Peliculas",Mobie City MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1 "Peliculas",Mobie City ACTION
+#EXTINF:-1  group-title="Peliculas",Mobie City ACTION
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1 "Peliculas",Mobie City BOLLYWOOD
+#EXTINF:-1  group-title="Peliculas",Mobie City BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1 "Peliculas",Mobie City 4
+#EXTINF:-1  group-title="Peliculas",Mobie City 4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1, Peliculas 24/7
+#EXTINF:-1, group-title="Peliculas",Peliculas 24/7
 http://sjc-uhls-proxy105.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=18654330&stream=viewer_240p&connectionId=oldurl-6f78298595c5b8ffe286dd0edd9106ce5d55a536&group=iphone
 
 #EXTINF:-1 group-title="Peliculas",Movie City MAX
