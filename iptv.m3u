@@ -499,8 +499,14 @@ http://66.55.92.79:1935/app/chivas69s-channel/.m3u8
 http://66.55.92.79:1935/app/chivass69s-channel/.m3u8
 #EXTINF:-1 tvg-shift=1 tvg-id="Directv_I407.28461071.microsoft.com" tvg-name="TELEP407_TELEP407Telemundo_Television_Network_(Pacific)Network" tvg-logo="telemundo.png" group-title="ENTRETENIMIENTO",Telemundo
 http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
+#EXTINF:-1 tvg-id="SkyMX_I627.44563062.microsoft.com" tvg-name="CNNESP627_CNNESP627cnn_espanol_mexicoCable" tvg-logo="cnnmx.png" group-title="NOTICIAS",CNN Mexico
+http://187.247.255.139/Apple/CNNEspanol2500.m3u8
 #EXTINF:-1 tvg-id="CVMX_I715.44563133.microsoft.com" tvg-name="EURONEWS715_EURONEWS715euronewsCable" tvg-logo="euronews-logo.png" group-title="NOTICIAS",EuroNews
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
+#EXTINF:0 tvg-id="Total_ES Canal 24 horas" tvg-name="TVE_24_horas" tvg-logo="TVE_24H.png" group-title="NOTICIAS",TVE 24 Horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0 tvg-id="Chile_707.dtv.la" tvg-name="CNN_Chile_(707)707" tvg-logo="cnnc.png" group-title="NOTICIAS",CNN Chile
+rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
 #EXTINF:-1 tvg-id="Directv_I218.199680572.microsoft.com" tvg-name="GOLFHD218_GOLFHD218The_Golf_Channel_HDSports_Satellite" tvg-logo="golf.png" group-title="Ingles",Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.23 9.112.104
 #EXTINF:-1 tvg-id="SkyUK_I506.54932.microsoft.com" tvg-name="CNNI506_CNNI506CNN_International" tvg-logo="cnn.png" group-title="Ingles",CNN
@@ -579,8 +585,6 @@ http://str108.setplex.net/fastv_2psh/PinkWorldglobal_rly_greece_109/balkansatnet
 http://str108.setplex.net/fastv_2psh/PinkZabavaglobal_rly_greece_103/balkansatnet.m3u8
 #EXTINF:0 tvg-id="Directv_I427.28457267.microsoft.com" tvg-name="TYC427_TYC427TyC_SportsLatin_American_Satellite" tvg-logo="tyc-sports.png" group-title="DEPORTE",TYC Sports
 http://38.95.112.2/tyc-edge/live/master.m3u8
-#EXTINF:-1 tvg-id="SkyMX_I627.44563062.microsoft.com" tvg-name="CNNESP627_CNNESP627cnn_espanol_mexicoCable" tvg-logo="cnnmx.png" group-title="NOTICIAS",CNN Mexico
-http://187.247.255.139/Apple/CNNEspanol2500.m3u8
 #EXTINF:0 tvg-id="SkyUK_I123.767452.microsoft.com" tvg-name="ITV_Encore123_ITV_Encore123" tvg-logo="itv-encore.png" group-title="Ingles",ITV Encore
 http://93.184.221.133/00573D/1451/1451-0.m3u8
 #EXTINF:0 tvg-id="Total_BoxNation" tvg-name="BoxNation" tvg-logo="boxnation.png" group-title="Ingles",Boxnation
@@ -744,10 +748,6 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-shift=3 tvg-id="Argentina_75.cablevision" tvg-name="El_Canal_de_las_Estrellas" tvg-logo="Canal_13_Argentina.png" group-title="INTERNACIONAL",Canal 13
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-#EXTINF:0 tvg-id="Total_ES Canal 24 horas" tvg-name="TVE_24_horas" tvg-logo="TVE_24H.png" group-title="NOTICIAS",TVE 24 Horas
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:0 tvg-id="Chile_707.dtv.la" tvg-name="CNN_Chile_(707)707" tvg-logo="cnnc.png" group-title="NOTICIAS",CNN Chile
-rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
 #EXTINF:0 tvg-id="SkyUK_I143.759242.microsoft.com" tvg-name="BBC_One_HD143_BBC_One_HD143" tvg-logo="BBC-One.png" group-title="Ingles",BBC 1
 http://93.184.221.133/00573D/1277/1277-0.m3u8
 #EXTINF:-1 tvg-id="MXTotal_I927.44563207.microsoft.com" tvg-name="PRIVATE927_PRIVATE927private_goldPay-per-view" tvg-logo="PRIVATE_TV.png" group-title="Adulto",Private
