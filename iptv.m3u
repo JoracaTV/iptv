@@ -289,7 +289,7 @@ http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL374/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I254.176955573.microsoft.com" tvg-name="NATGEOMEX254_NATGEOMEX254national_geographic_latin_amerCable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="DOCUMENTALES",NatGeo
 http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I222.303416024.microsoft.com" tvg-name="LIFELA222_LIFELA222lifetime_latin_americaCable" tvg-logo="lifetime.png" group-title="ENTRETENIMIENTO",Lifetime
+#EXTINF:-1 tvg-id="SkyMX_I222.303416024.microsoft.com" tvg-name="LIFELA222_LIFELA222lifetime_latin_americaCable" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="ENTRETENIMIENTO",Lifetime
 http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="MXTotal_I381.44563318.microsoft.com" tvg-name="DSCIENL381_DSCIENL381discovery_science_latamCable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif" group-title="DOCUMENTALES",Discovery Science
 http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
