@@ -115,7 +115,7 @@ http://200.76.77.237/LIVE/H01/CANAL40/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="Canal AZCorazón" tvg-name="AZ Corazon" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/azcorazon-mediano.png" group-title="CANALES HD",Az Corazon HD
 http://200.76.77.237/LIVE/H01/CANAL45/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal_estrellas_mx.png.png" group-title="INTERNACIONAL",Canal 2
+#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal_estrellas_mx.png" group-title="INTERNACIONAL",Canal 2
 http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://foromedios.com/uploads/gallery/category_6/gallery_5550_6_41937.png" group-title="CANALES HD",Canal 2 HD
 http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?
@@ -256,7 +256,7 @@ http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif" group-title="CANALES HD",Investigacion Discovery HD
 http://200.76.77.237/LIVE/H01/CANAL263/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="CVMX_I242.307660269.microsoft.com" tvg-name="TNTSPA242_TNTSPA242tnt_series_panamericanoCable" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Serie.svg.png.png" group-title="CINE",TNT Series
+#EXTINF:-1 tvg-id="CVMX_I242.307660269.microsoft.com" tvg-name="TNTSPA242_TNTSPA242tnt_series_panamericanoCable" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Serie.svg.png" group-title="CINE",TNT Series
 http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="CVMX_I242.307660269.microsoft.com" tvg-name="TNTSPA242_TNTSPA242tnt_series_panamericanoCable" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2000px-TNT_Serie_HD.svg.png" group-title="CANALES HD",TNT Series HD
 http://200.76.77.237/LIVE/H01/CANAL266/PROFILE05.m3u8?
