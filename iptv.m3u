@@ -491,52 +491,52 @@ http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
 #EXTINF:-1, [COLOR yellow]####CANALES LATINO AMERICA####[/COLOR]
 -----------------------------------------------------------
 
- #EXTINF:1,WB HD
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/WarnerHD4000.m3u8?sd=
- #EXTINF:1,ANIME TV
- http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
- #EXTINF:1,NICK HD
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD2500.m3u8?sd=
- #EXTINF:1,NATGEO WILD
- http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
- #EXTINF:1,DISCOVERY
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/Discovery2500.m3u8?sd=
- #EXTINF:1,PLANETA FUTBOL
- http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
- #EXTINF:1,TODO DEPORTES
- http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
- #EXTINF:1,FOX SPORT
- http://187.247.255.139/Apple/FOXSPHD600.m3u8
- #EXTINF:1,REAL MADRID DEPORTES
- http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1, CNN en Español
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/CNNEspanol2500.m3u8
- #EXTINF:-1, Discovery Channel
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/Discovery2500.m3u8
- #EXTINF:-1, ESPN 3 HD
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD2500.m3u8
- #EXTINF:-1, ESPN HD
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPNHD1800.m3u8
- #EXTINF:-1, FOX Sports HD
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/FOXSPHD2500.m3u8
- #EXTINF:-1, GALA HD
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/GALAHD2500.m3u8
- #EXTINF:-1, History HD
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/HistoryHD2500.m3u8
- #EXTINF:-1, Nickelodeon HD
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD2500.m3u8
- #EXTINF:-1, TDNHD
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TDNHD1200.m3u8
- #EXTINF:-1, Telehit HD
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD2500.m3u8
- #EXTINF:-1, TVC
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVC2500.m3u8
- #EXTINF:-1, TVC Deportes
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
- #EXTINF:-1, Universal Channel HD
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/UNIHD2500.m3u8
- #EXTINF:-1, Warner Channel HD
- http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/WarnerHD1000.m3u8
+#EXTINF:-1, WB HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/WarnerHD4000.m3u8?sd=
+#EXTINF:-1, ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1, NICK HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD2500.m3u8?sd=
+#EXTINF:-1, NATGEO WILD
+http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
+#EXTINF:-1, DISCOVERY
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/Discovery2500.m3u8?sd=
+#EXTINF:-1, PLANETA FUTBOL
+http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
+#EXTINF:-1, TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1, FOX SPORT
+http://187.247.255.139/Apple/FOXSPHD600.m3u8
+#EXTINF:-1, REAL MADRID DEPORTES
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, CNN en Español
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/CNNEspanol2500.m3u8
+#EXTINF:-1, Discovery Channel
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/Discovery2500.m3u8
+#EXTINF:-1, ESPN 3 HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD2500.m3u8
+#EXTINF:-1, ESPN HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPNHD1800.m3u8
+#EXTINF:-1, FOX Sports HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/FOXSPHD2500.m3u8
+#EXTINF:-1, GALA HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/GALAHD2500.m3u8
+#EXTINF:-1, History HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/HistoryHD2500.m3u8
+#EXTINF:-1, Nickelodeon HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD2500.m3u8
+#EXTINF:-1, TDNHD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TDNHD1200.m3u8
+#EXTINF:-1, Telehit HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD2500.m3u8
+#EXTINF:-1, TVC
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVC2500.m3u8
+#EXTINF:-1, TVC Deportes
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
+#EXTINF:-1, Universal Channel HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/UNIHD2500.m3u8
+#EXTINF:-1, Warner Channel HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/WarnerHD1000.m3u8
 
 #EXTINF:-1, [COLOR yellow]####CANALES EN INGLES####[/COLOR]
 -----------------------------------------------------------
