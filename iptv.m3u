@@ -426,7 +426,7 @@ http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I711.44563393.microsoft.com" tvg-name="BANDAMAX711_BANDAMAX711bandamaxCable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="MUSICALES",Bandamax
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
-#EXTINF:-1 group-title="MUSICALES",Hip Hop Channel
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/7/70/Hip_hop_tv_it.png" group-title="MUSICALES",Hip Hop Channel
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
 #EXTINF:-1 group-title="MUSICALES",Musica SI
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
@@ -437,24 +437,24 @@ http://live-edge01.telecentro.net.ar:1935/live/13hd-360/playlist.m3u8
 http://iphone-streaming.ustream.tv/ustreamVideo/14449783/streams/live/playlist.m3u8?Iptv.latino=02
 #EXTINF:-1 tvg-shift=1 tvg-id="Directv_I407.28461071.microsoft.com" tvg-name="TELEP407_TELEP407Telemundo_Television_Network_(Pacific)Network" tvg-logo="http://www.lyngsat-logo.com/hires/tt/telemundo_internacional.png" group-title="ENTRETENIMIENTO",Telemundo (Pacifico)
 http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",Univision
+#EXTINF:-1 tvg-logo="http://iamerica.org/wp-content/uploads/2015/02/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision
 http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8?
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Unimas
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO", Unimas
 rtmp://50.7.78.138:443/live/live_unimas12 
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/tt/telemundo_internacional.png" group-title="ENTRETENIMIENTO",Telemundo (opcion 2)
 rtmp://podi.hopper.pw:443/live/live_telemundo34
-#EXTINF:0 tvg-id="Total_ES Canal 24 horas" tvg-name="TVE_24_horas" tvg-logo="TVE_24H.png" group-title="NOTICIAS",TVE 24 Horas
+#EXTINF:0 tvg-id="Total_ES Canal 24 horas" tvg-name="TVE_24_horas" tvg-logo="http://upload.wikimedia.org/wikipedia/en/a/ad/TVE_Canal_24_Horas.png" group-title="NOTICIAS",TVE 24 Horas
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="CNN en español" tvg-name="CNN en español" tvg-logo="http://imagenes.gatotv.com/logos/canales/cnn_internacional.png" group-title="NOTICIAS",CNN EN ESPAÑOL
 http://187.247.255.139/Apple/CNNEspanol2500.m3u8
-#EXTINF:0 tvg-id="Total_RT Espa\u00f1ol" tvg-name="RT_Español" tvg-logo="rt.png" group-title="NOTICIAS",RT Español
+#EXTINF:0 tvg-id="Total_RT Espa\u00f1ol" tvg-name="RT_Español" tvg-logo="https://pbs.twimg.com/profile_images/547577745874501634/b1iXLmbO.png" group-title="NOTICIAS",RT Español
 http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="CVMX_I715.44563133.microsoft.com" tvg-name="EURONEWS715_EURONEWS715euronewsCable" tvg-logo="euronews-logo.png" group-title="NOTICIAS",EuroNews
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
-#EXTINF:-1 group-title="CANALES HD", Televisa HD
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ec/Televisa_oficial.png" group-title="CANALES HD", Televisa HD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Univision
+#EXTINF:-1 tvg-logo="http://iamerica.org/wp-content/uploads/2015/02/Univision_2013_logo.png" group-title="ENTRETENIMIENTO", Univision
 http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8?
 #EXTINF:-1 tvg-id="Univisión TDN" tvg-name="Univisión TDN" tvg-logo="http://z.cdn.entutele.com/media/channels/big/univision-tdn.gif" group-title="DEPORTE", Univision Deportes
 http://50.7.69.170:443/live/vhx96yckmpaxpq5/index.m3u8
