@@ -447,7 +447,10 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 http://187.247.255.139/Apple/CNNEspanol2500.m3u8
 #EXTINF:0 tvg-id="Total_RT Espa\u00f1ol" tvg-name="RT_Español" tvg-logo="https://pbs.twimg.com/profile_images/547577745874501634/b1iXLmbO.png" group-title="NOTICIAS",RT Español
 http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/chunklist.m3u8
-
+#EXTINF:-1, Cubavision
+http://149.11.34.78/live/cubavision.stream/.m3u8
+#EXTINF:-1, Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 #EXTINF:-1 tvg-id="CVMX_I715.44563133.microsoft.com" tvg-name="EURONEWS715_EURONEWS715euronewsCable" tvg-logo="euronews-logo.png" group-title="NOTICIAS",EuroNews
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ec/Televisa_oficial.png" group-title="CANALES HD", Televisa HD
@@ -484,30 +487,10 @@ http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 http://m.iblups.com:1935/lives/ptv1/playlist.m3u8?
 #EXTINF:-1, CIELO
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
-#EXTINF:-1, THE SIMPSON
-rtmp://podi.hopper.pw:443/live/live_mega_simpson
-#EXTINF:-1, THE SIMPSON (Opcion 2)
-rtmp://50.7.78.138:443/live/live_mega_simpson
-#EXTINF:0,south park
-http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
-#EXTINF:0,DRAGON BALL
-http://ift.tt/1GzGil2
-#EXTINF:0,El Chavo
-rtmp://podi.hopper.pw:443/live/live_mega_chavo
-#EXTINF:0,CHESPIRITO
-rtmp://podi.hopper.pw:443/live/live_chespirito_mania
-#EXTINF:0,CABALLEROS DEL ZODIACO
-rtmp://podi.hopper.pw:443/live/live_animetoontv
-#EXTINF:1,ANIME TV
-http://bit.ly/1db2S8p
 
 #EXTINF:-1, [COLOR yellow]####CANALES LATINO AMERICA####[/COLOR]
 -----------------------------------------------------------
 
-#EXTINF:-1, Cubavision
-http://149.11.34.78/live/cubavision.stream/.m3u8
-#EXTINF:-1, Azteca Honduras
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 #EXTINF:1,WB HD
  http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/WarnerHD4000.m3u8?sd=
  #EXTINF:1,ANIME TV
@@ -603,19 +586,6 @@ http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:0 tvg-logo="mbc4.png" group-title="Ingles",MBC 4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 
-#EXTINF:-1, [COLOR yellow]####CANALES RELIGIOSOS####[/COLOR]
------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="Aliento.png" group-title="RELIGIOSO",Aliento Vision
-http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
-#EXTINF:-1 group-title="RELIGIOSO",Cristovision
-http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/playlist_b300000_w2000349639.m3u8#MegaIPTVArgentina
-#EXTINF:-1 group-title="RELIGIOSO",ESNE
-http://198.154.228.82:1935/live/esnetv/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1 group-title="RELIGIOSO",EWTN
-http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8?
-#EXTINF:-1 group-title="RELIGIOSO",Mundo Catolicos
-rtmp://199.168.116.11/app/mundocatolicos-channel
 #EXTINF:-1 group-title="DEPORTE",PAC-12 Anistorpic
 http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_2328_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="DEPORTE"PAC National 1280*720
@@ -734,6 +704,118 @@ rtmp://50.7.78.138:443/live/live_vitatotv
 rtmp://50.7.78.138:443/live/live_universal_movies
 #EXTINF:0,Peliculas en Español
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1, THE SIMPSON
+rtmp://podi.hopper.pw:443/live/live_mega_simpson
+#EXTINF:-1, THE SIMPSON (Opcion 2)
+rtmp://50.7.78.138:443/live/live_mega_simpson
+#EXTINF:0,south park
+http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
+#EXTINF:0,DRAGON BALL
+http://ift.tt/1GzGil2
+#EXTINF:0,El Chavo
+rtmp://podi.hopper.pw:443/live/live_mega_chavo
+#EXTINF:0,CHESPIRITO
+rtmp://podi.hopper.pw:443/live/live_chespirito_mania
+#EXTINF:0,CABALLEROS DEL ZODIACO
+rtmp://podi.hopper.pw:443/live/live_animetoontv
+#EXTINF:1,ANIME TV
+http://bit.ly/1db2S8p
+
+#EXTINF:-1, [COLOR yellow]####CANALES RELIGIOSOS####[/COLOR]
+-----------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="Aliento.png" group-title="RELIGIOSO",Aliento Vision
+http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",Cristovision
+http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/playlist_b300000_w2000349639.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="RELIGIOSO",ESNE
+http://198.154.228.82:1935/live/esnetv/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="RELIGIOSO",EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8?
+#EXTINF:-1 group-title="RELIGIOSO",Mundo Catolicos
+rtmp://199.168.116.11/app/mundocatolicos-channel
+
+#EXTINF:-1, [COLOR yellow]#### RADIO ####[/COLOR]
+-------------------------------------------------------------------
+
+#EXTINF:-1 group-title="RADIO", LA MEGA WEB CAM
+http://iphone-streaming.ustream.tv/ustreamVideo/18987680/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="RADIO", 50's
+http://buecrplb01.cienradios.com.ar/50_32000.aac
+#EXTINF:-1 group-title="RADIO", 60's
+http://buecrplb01.cienradios.com.ar/60_32000.aac
+#EXTINF:-1 group-title="RADIO", 70's
+http://buecrplb01.cienradios.com.ar/70_Internacional_32000.aac
+#EXTINF:-1 group-title="RADIO", 70's Europa
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_UK_32000.aac
+#EXTINF:-1 group-title="RADIO", 70's USA
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
+#EXTINF:-1 group-title="RADIO", 80´s
+http://buecrplb01.cienradios.com.ar/80_Internacional_32000.aac
+#EXTINF:-1 group-title="RADIO", 80's Argentina
+http://buecrplb01.cienradios.com.ar/80_Nacional_32000.aac
+#EXTINF:-1 group-title="RADIO", 80's USA
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
+#EXTINF:-1 group-title="RADIO", 90's Internacional
+http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
+#EXTINF:-1 group-title="RADIO", 90's Europa
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
+#EXTINF:-1 group-title="RADIO", 90´s USA
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_USA_32000.aac
+#EXTINF:-1 group-title="RADIO", Adulto Contemporaneo
+http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
+#EXTINF:-1 group-title="RADIO", Baladas
+http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
+#EXTINF:-1 group-title="RADIO", Bossa Nova
+http://buecrplb01.cienradios.com.ar/Bossa_Nova_32000.aac
+#EXTINF:-1 group-title="RADIO", Brasil
+http://buecrplb01.cienradios.com.ar/Brasil_32000.aac
+#EXTINF:-1 group-title="RADIO", BritPop
+http://buecrplb01.cienradios.com.ar/Britpop_32000.aac
+#EXTINF:-1 group-title="RADIO", Chillout
+http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
+#EXTINF:-1 group-title="RADIO", Clasica
+http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
+#EXTINF:-1 group-title="RADIO", Clasica Cine
+http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
+#EXTINF:-1 group-title="RADIO", Clasica Meditacion
+http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
+#EXTINF:-1 group-title="RADIO", Cuarteto
+http://buecrplb01.cienradios.com.ar/Cuarteto_32000.aac
+#EXTINF:-1 group-title="RADIO", Estrenos
+http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
+#EXTINF:-1 group-title="RADIO", Electronica
+http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
+#EXTINF:-1 group-title="RADIO", Electro Tango
+http://buecrplb01.cienradios.com.ar/Electronic_Tango_32000.aac?
+#EXTINF:-1 group-title="RADIO", Fiesta Dance
+http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
+#EXTINF:-1 group-title="RADIO", Lentos
+http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
+#EXTINF:-1 group-title="RADIO", Live music
+http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
+#EXTINF:-1 group-title="RADIO", Raggae
+http://buecrplb01.cienradios.com.ar/Reggae_32000.aac
+#EXTINF:-1 group-title="RADIO", Reggaeton
+http://buecrplb01.cienradios.com.ar/Reggaeton_32000.aac
+#EXTINF:-1 group-title="RADIO", Reiki
+http://buecrplb01.cienradios.com.ar/Reiki_32000.aac
+#EXTINF:-1 group-title="RADIO", Rock Hits
+http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
+#EXTINF:-1 group-title="RADIO", Rock Latino
+http://buecrplb01.cienradios.com.ar/Rock_Latinoamericano_32000.aac
+#EXTINF:-1 group-title="RADIO", Salsa
+http://buecrplb01.cienradios.com.ar/Salsa_32000.aac
+#EXTINF:-1 group-title="RADIO", Smooth Jazz
+http://buecrplb01.cienradios.com.ar/Smooth_Jazz_32000.aac
+#EXTINF:-1 group-title="RADIO", Top 40
+http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
+#EXTINF:-1 group-title="RADIO", Top Europa
+http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
+#EXTINF:-1 group-title="RADIO", Top USA
+http://buecrplb01.cienradios.com.ar/Top_USA_32000.aac
+#EXTINF:-1 group-title="RADIO", Yoga
+http://buecrplb01.cienradios.com.ar/Yoga_32000.aac
 
 #EXTINF:-1, [COLOR yellow]####WEBCAMS USA####[/COLOR]
 -----------------------------------------------------
@@ -829,87 +911,7 @@ http://video1.earthcam.com/fecnetwork/5005.flv/hasbahca.m3u8
 #EXTINF:-1,USA-Wildwood -New Jersey
 http://video1.earthcam.com/fecnetwork/5732.flv/hasbahca.m3u8
 
-#EXTINF:-1, [COLOR yellow]#### RADIO ####[/COLOR]
--------------------------------------------------------------------
 
-#EXTINF:0,LA MEGA WEB CAM
-http://iphone-streaming.ustream.tv/ustreamVideo/18987680/streams/live/playlist.m3u8
-#EXTINF:1, 50's
-http://buecrplb01.cienradios.com.ar/50_32000.aac
-#EXTINF:1, 60's
-http://buecrplb01.cienradios.com.ar/60_32000.aac
-#EXTINF:0, 70's
-http://buecrplb01.cienradios.com.ar/70_Internacional_32000.aac
-#EXTINF:0, 70's Europa
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_UK_32000.aac
-#EXTINF:0, 70's USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
-#EXTINF:0, 80´s
-http://buecrplb01.cienradios.com.ar/80_Internacional_32000.aac
-#EXTINF:0, 80's Argentina
-http://buecrplb01.cienradios.com.ar/80_Nacional_32000.aac
-#EXTINF:0, 80's USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
-#EXTINF:0, 90's Internacional
-http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
-#EXTINF:0, 90's Europa
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
-#EXTINF:0, 90´s USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_USA_32000.aac
-#EXTINF:0, Adulto Contemporaneo
-http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
-#EXTINF:0, Baladas
-http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
-#EXTINF:0, Bossa Nova
-http://buecrplb01.cienradios.com.ar/Bossa_Nova_32000.aac
-#EXTINF:0, Brasil
-http://buecrplb01.cienradios.com.ar/Brasil_32000.aac
-#EXTINF:0, BritPop
-http://buecrplb01.cienradios.com.ar/Britpop_32000.aac
-#EXTINF:0, Chillout
-http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
-#EXTINF:0, Clasica
-http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
-#EXTINF:0, Clasica Cine
-http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
-#EXTINF:0, Clasica Meditacion
-http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
-#EXTINF:0, Cuarteto
-http://buecrplb01.cienradios.com.ar/Cuarteto_32000.aac
-#EXTINF:0, Estrenos
-http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
-#EXTINF:0, Electronica
-http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
-#EXTINF:0, Electro Tango
-http://buecrplb01.cienradios.com.ar/Electronic_Tango_32000.aac?
-#EXTINF:0, Fiesta Dance
-http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
-#EXTINF:0, Lentos
-http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
-#EXTINF:0, Live music
-http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
-#EXTINF:0, Raggae
-http://buecrplb01.cienradios.com.ar/Reggae_32000.aac
-#EXTINF:0, Reggaeton
-http://buecrplb01.cienradios.com.ar/Reggaeton_32000.aac
-#EXTINF:0, Reiki
-http://buecrplb01.cienradios.com.ar/Reiki_32000.aac
-#EXTINF:0, Rock Hits
-http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
-#EXTINF:0, Rock Latino
-http://buecrplb01.cienradios.com.ar/Rock_Latinoamericano_32000.aac
-#EXTINF:0, Salsa
-http://buecrplb01.cienradios.com.ar/Salsa_32000.aac
-#EXTINF:0, Smooth Jazz
-http://buecrplb01.cienradios.com.ar/Smooth_Jazz_32000.aac
-#EXTINF:0, Top 40
-http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
-#EXTINF:0, Top Europa
-http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
-#EXTINF:0, Top USA
-http://buecrplb01.cienradios.com.ar/Top_USA_32000.aac
-#EXTINF:0, Yoga
-http://buecrplb01.cienradios.com.ar/Yoga_32000.aac
 
 
 
