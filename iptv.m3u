@@ -22,7 +22,7 @@ http://mek2.mekstream.com:1935/telenord8/live2/telenord8.m3u8
 http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_Canal 10 de telenord (Republica Dominicana)" tvg-name="Telenord10" tvg-logo="http://referenceur-tv.com/wp-content/uploads/2013/04/telenord-canal-10-television-en-vivo-gratuito-streaming.png" group-title="NACIONALES",TeleNord Canal 10
 http://mek2.mekstream.com:1935/telenord10/live2/telenord10.m3u8
-#EXTINF:-1 group-title="NACIONALES",Luna Vision Canal 10 Bonao
+#EXTINF:-1 tvg-logo="http://yunavision.com/images/yuna2sm.png" group-title="NACIONALES",Yuna Vision Canal 10 Bonao
 http://ss7.domint.net:1986/yv_str/yuna/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_Canal Telesistema 11 (RepÃºblica Dominicana)" tvg-name="Telesistema" tvg-logo="http://imagenes.gatotv.com/logos/canales/telesistema_11.png" group-title="NACIONALES",Telesistema Canal 11
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
@@ -30,7 +30,7 @@ http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
 http://ss7.domint.net:2084/vtv_str/canal8/chunklist_w141765224.m3u8
 #EXTINF:-1 tvg-id="Total_Canal 12 de Telenord (Republica Dominicana)" tvg-name="Telenord12" tvg-logo="http://referenceur-tv.com/wp-content/uploads/2013/04/telenord-canal-12-television-en-vivo-gratuito-streaming.png" group-title="NACIONALES",TeleNord Canal 12
 http://mek2.mekstream.com:1935/telenord12/live2/telenord12.m3u8
-#EXTINF:-1 group-title="NACIONALES",TV Higuey Canal 12
+#EXTINF:-1 tvg-logo="http://tvhiguey.com/wp-content/uploads/2015/01/header-tv-higuey1.png" group-title="NACIONALES",TV Higuey Canal 12
  http://asx.domiplay.net:1935/rtplive/tvhiguey.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Total_Canal 13 de Telecentro (Republica Dominicana)" tvg-name="Telecentro13" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana_telecentro-mediano.png" group-title="NACIONALES",Telecentro Canal 13
@@ -40,39 +40,39 @@ rtmp://$OPT:rtmp-raw=rtmp://ss7.domint.net:1970/x_str/ playpath=xtremo swfUrl=ht
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/15_republica_dominicana-mediano.png",Digital 15
 http://31.220.2.220:80/LiveEdge/Digital15RDLA/chunklist_w1228814613_b1000000.m3u8?token=bc9cf056a1f073eb5e26af18d4f4874b
 
-#EXTINF:-1 group-title="NACIONALES",Noticias 16
+#EXTINF:-1 tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2014/05/Telecanal-16.jpg"group-title="NACIONALES",Noticias 16
 http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",Canal 19
+#EXTINF:-1 tvg-logo="http://original.livestream.com/filestore/logos/249368f6-fb7a-68f0-7147-ce0d2a0dd76e-banner.png" group-title="NACIONALES",Canal 19
 http://ichunk.livestream.com/212.169/livestreamiphone/cinevisioncanal19-fdauhajre20150507-140456_198/chunklist.m3u8?wowzasessionid=2091826559
 
-#EXTINF:-1 group-title="NACIONALES",Telefuturo Canal 23
+#EXTINF:-1 tvg-logo="http://ss7.domint.net/fp/images/telefuturo_logo_pb.png" group-title="NACIONALES",Telefuturo Canal 23
 rtmp://$OPT:rtmp-raw=rtmp://ss7.domint.net:1950/tf_str/ playpath=futu swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://canalesdominicanosenvivo.com/asset/play/rpe.php?id=139
-#EXTINF:-1 group-title="NACIONALES",Canal 25
+#EXTINF:-1 tvg-logo="http://www.dominicaninternet.com/servicios/images/canal_25_logo.png" group-title="NACIONALES",Canal 25
 http://ss7.domint.net:2074/tdtv_str/vision/chunklist_w741097806.m3u8
 
 #EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/29_republica_dominicana-mediano.png" group-title="NACIONALES",Teleuniverso
 http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_Canal 37 de CDN (RepÃºblica Dominicana)" tvg-name="CDN_37" tvg-logo="http://imagenes.gatotv.com/logos/canales/37_republica_dominicana-mediano.png" group-title="NACIONALES",CDN 37
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",Televida 41
+#EXTINF:-1 tvg-logo="http://www.canalesdominicanos.com.do/wp-content/uploads/2013/10/logo.png" group-title="NACIONALES",Televida 41
 rtmp://69.175.12.34/live/ALOJADO_TELEVIDA
-#EXTINF:-1 group-title="NACIONALES",Teleradio America 45
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820501347/TRAdigital-2010_400x400.png" group-title="NACIONALES",Teleradio America 45
 http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",Ame 47
+#EXTINF:-1 tvg-logo="http://cdn.conectate.com.do.s3.amazonaws.com/wp-content/uploads/2014/05/Ame.jpg" group-title="NACIONALES",Ame 47
 rtmp://tv.domiplay.net:1935/rtplive/ame47.sdp
 #EXTINF:-1 tvg-id="Total_Canal CDN-SportsMax" tvg-name="CDN-SportsMax" tvg-logo="http://imagenes.gatotv.com/logos/canales/cdn_sportsmax-mediano.png" group-title="NACIONALES",CDN-SportsMax
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",Musa Vision
+#EXTINF:-1 tvg-logo="http://www.musavision.com/wp-content/uploads/2012/11/logo-musavision34.png" group-title="NACIONALES",Musa Vision
 rtmp://joelzaiter1.srfms.com:1963/live/musav.sdp
-#EXTINF:-1 group-title="NACIONALES",Azua Tv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/487979831779282944/OrNh95vQ.png" group-title="NACIONALES",Azua Tv
 rtmp://50.7.78.138:443/live/live_azuatv
-#EXTINF:-1 group-title="NACIONALES",TNI Canal 51 Santiago
+#EXTINF:-1 tvg-logo="http://www.tni51.com/images/logo.png" group-title="NACIONALES",TNI Canal 51 Santiago
 http://ss7.domint.net:2078/tni_str/canal51/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",Super TV 55
+#EXTINF:-1 tvg-logo="http://www.dominicaninternet.com/servicios/images/super_tv_55_logo_clear.png" group-title="NACIONALES",Super TV 55
 http://ss7.domint.net:2022/stv_str/tv55/chunklist_w1177679577.m3u8
-#EXTINF:-1 group-title="NACIONALES",TV Recuerdos Canal 56 Santo Domingo
+#EXTINF:-1 tvg-logo="http://www.canalesdominicanos.com.do/wp-content/uploads/2014/06/station_46.png" group-title="NACIONALES",TV Recuerdos Canal 56 Santo Domingo
 http://media.az-streamingserver.com:1935/7248/7248/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",Telecontacto Canal 57 Santiago
+#EXTINF:-1 tvg-logo="http://dominicanchannel.net/wp-content/uploads/2013/10/telecontacto57.png" group-title="NACIONALES",Telecontacto Canal 57 Santiago
 http://stream.prostudionetwork.com:1957/telecontacto/TC/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES",Yuna TV
 http://ss7.domint.net:1986/yv_str/yuna/playlist.m3u8
