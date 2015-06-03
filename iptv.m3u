@@ -74,8 +74,6 @@ http://ss7.domint.net:2022/stv_str/tv55/chunklist_w1177679577.m3u8
 http://media.az-streamingserver.com:1935/7248/7248/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2014/05/Telecontacto.jpg" group-title="NACIONALES",Telecontacto Canal 57 Santiago
 http://stream.prostudionetwork.com:1957/telecontacto/TC/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",Yuna TV
-http://ss7.domint.net:1986/yv_str/yuna/playlist.m3u8
 
 #EXTINF:-1, [COLOR yellow]####EMISORAS RADIO DE BOCA CHICA####[/COLOR]
 -------------------------------------------------------------------
