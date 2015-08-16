@@ -1,19 +1,16 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red]---[/COLOR][COLOR blue]JCASTRO IPTV CABLE[/COLOR][COLOR green]SD Y HD[/COLOR][COLOR red]---[/COLOR]
 -------------------------------------------------------------------------------------------------------------------------
-
+ 
 #EXTINF:-1,[COLOR yellow]####CANALES NACIONALES####[/COLOR]
 -------------------------------------------------------------------------------------------------------------------------
-
+ 
 #EXTINF:-1 tvg-id="Total_Canal 2 de Tele Antillas (Republica Dominicana)" tvg-name="Tele_Antillas" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tele_antillas.png" group-title="NACIONALES",Tele Antillas Canal 2
 http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tele_antillas.png" group-title="NACIONALES", Teleantillas Canal 2 (Opcion 2)
 http://mek4.mekstream.com/teleantillas/smil:teleantillas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_Canal 4 CERTV (Republica Dominicana)" tvg-name="CERTV" tvg-logo="http://www.televisiongratis.com.ar/components/com_televisiongratis/images/canal-4-certv-669.png" group-title="NACIONALES",CERTV Canal 4
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 tvg-id="Total_Canal 5 telemicro (Republica Dominicana)" tvg-name="telemicro_5" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/5_telemicro.png" group-title="NACIONALES",Telemicro Canal 5
-http://31.220.40.108:80/LiveEdge/TelemicroLA/chunklist_w816047082_b1000000.m3u8?token=c4a0934faccc935b6aaa1e108129002d
-
 #EXTINF:-1 tvg-id="Canal 7 de Antena Latina (República Dominicana)" tvg-name="Antena_Latina" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/7_republica_dominicana-mediano.png" group-title="NACIONALES",Antena Latina Canal 7
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_Canal 8 de telenord (Republica Dominicana)" tvg-name="Telenord8" tvg-logo="http://referenceur-tv.com/wp-content/uploads/2013/04/telenord-canal-8-television-en-vivo-gratuito-streaming.png" group-title="NACIONALES",TeleNord Canal 8
@@ -31,25 +28,15 @@ http://ss7.domint.net:2084/vtv_str/canal8/chunklist_w141765224.m3u8
 #EXTINF:-1 tvg-id="Total_Canal 12 de Telenord (Republica Dominicana)" tvg-name="Telenord12" tvg-logo="http://referenceur-tv.com/wp-content/uploads/2013/04/telenord-canal-12-television-en-vivo-gratuito-streaming.png" group-title="NACIONALES",TeleNord Canal 12
 http://mek2.mekstream.com:1935/telenord12/live2/telenord12.m3u8
 #EXTINF:-1 tvg-logo="http://tvhiguey.com/wp-content/uploads/2015/01/header-tv-higuey1.png" group-title="NACIONALES",TV Higuey Canal 12
- http://asx.domiplay.net:1935/rtplive/tvhiguey.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Total_Canal 13 de Telecentro (Republica Dominicana)" tvg-name="Telecentro13" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana_telecentro-mediano.png" group-title="NACIONALES",Telecentro Canal 13
-rtmp://$OPT:rtmp-raw=rtmp://vivo.canalesdominicanosenvivo.com:1935/can/ playpath=centro1313.stream swfUrl=http://emisoradominicana.net/html5/play/jwplayer.flash.swf live=1 pageUrl=http://emisoradominicana.net/html5/play/paly.php?canal=194
-#EXTINF:-1 tvg-id="Total_Canal 14 de Extremo Premium (Republica Dominicana)" tvg-name="ExtremoPrimium" tvg-logo="http://ss7.domint.net/fp/images/xtremo_logo_pb.png" group-title="NACIONALES",Extremo Premium Canal 14
-rtmp://$OPT:rtmp-raw=rtmp://ss7.domint.net:1970/x_str/ playpath=xtremo swfUrl=http://ss7.domint.net/jw6/jwplayer.flash.swf live=1 pageUrl=http://xtremovision.com/?page_id=1461
+http://asx.domiplay.net:1935/rtplive/tvhiguey.sdp/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/15_republica_dominicana-mediano.png",Digital 15
 http://31.220.2.220:80/LiveEdge/Digital15RDLA/chunklist_w1228814613_b1000000.m3u8?token=bc9cf056a1f073eb5e26af18d4f4874b
-
 #EXTINF:-1 tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2014/05/Telecanal-16.jpg"group-title="NACIONALES",Noticias 16
 http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Cinevision.jpg" group-title="NACIONALES",Canal 19
 http://ichunk.livestream.com/212.169/livestreamiphone/cinevisioncanal19-fdauhajre20150507-140456_198/chunklist.m3u8?wowzasessionid=2091826559
-
-#EXTINF:-1 tvg-logo="http://ss7.domint.net/fp/images/telefuturo_logo_pb.png" group-title="NACIONALES",Telefuturo Canal 23
-rtmp://$OPT:rtmp-raw=rtmp://ss7.domint.net:1950/tf_str/ playpath=futu swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://canalesdominicanosenvivo.com/asset/play/rpe.php?id=139
 #EXTINF:-1 tvg-logo="http://www.dominicaninternet.com/servicios/images/canal_25_logo.png" group-title="NACIONALES",Canal 25
 http://ss7.domint.net:2074/tdtv_str/vision/chunklist_w741097806.m3u8
-
 #EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/29_republica_dominicana-mediano.png" group-title="NACIONALES",Teleuniverso
 http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_Canal 37 de CDN (RepÃºblica Dominicana)" tvg-name="CDN_37" tvg-logo="http://imagenes.gatotv.com/logos/canales/37_republica_dominicana-mediano.png" group-title="NACIONALES",CDN 37
@@ -60,7 +47,7 @@ rtmp://69.175.12.34/live/ALOJADO_TELEVIDA
 http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.conectate.com.do.s3.amazonaws.com/wp-content/uploads/2014/05/Ame.jpg" group-title="NACIONALES",Ame 47
 rtmp://tv.domiplay.net:1935/rtplive/ame47.sdp
-#EXTINF:-1 tvg-id="Total_Canal CDN-SportsMax" tvg-name="CDN-SportsMax" tvg-logo="http://imagenes.gatotv.com/logos/canales/cdn_sportsmax-mediano.png" group-title="NACIONALES",CDN-SportsMax
+#EXTINF:-1 tvg-id="CDN-SportsMax T-K" tvg-name="CDN-SportsMax T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/cdn_sportsmax-mediano.png" group-title="NACIONALES",CDN-SportsMax
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.musavision.com/wp-content/uploads/2012/11/logo-musavision34.png" group-title="NACIONALES",Musa Vision
 rtmp://joelzaiter1.srfms.com:1963/live/musav.sdp
@@ -74,361 +61,334 @@ http://ss7.domint.net:2022/stv_str/tv55/chunklist_w1177679577.m3u8
 http://media.az-streamingserver.com:1935/7248/7248/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2014/05/Telecontacto.jpg" group-title="NACIONALES",Telecontacto Canal 57 Santiago
 http://stream.prostudionetwork.com:1957/telecontacto/TC/playlist.m3u8
-
+ 
 #EXTINF:-1, [COLOR yellow]####EMISORAS RADIO DE BOCA CHICA####[/COLOR]
 -------------------------------------------------------------------
-
+ 
 #EXTINF:-1 tvg-logo="http://comoanocheradio.com/Web/images/design/logo.png" group-title="RADIO",Como Anoche Radio
 http://212.83.172.164:9956/;stream.nsv
-
+ 
 #EXTINF:-1 tvg-logo="http://laplayerafm.com/wp-content/uploads/2014/11/la-playera@2x.png" group-title="RADIO",La Playera FM
 http://37.59.138.137:9956/;stream.mp3
-
+ 
 #EXTINF:-1 tvg-logo="http://tumusicacaliente.com/images/logo.png" group-title="RADIO",TMC Radio
 http://streamingrd.com:8459/;?1429767457605.mp3
-
-
+ 
+ 
 #EXTINF:-1, [COLOR yellow]####CANALES INTERNACIONALES####[/COLOR]
 -----------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="CVMX_I711.44563157.microsoft.com" tvg-name="CANAL_24711_CANAL_24711canal_24_horas_noticiasCable" tvg-logo="http://www.lyngsat-logo.com/hires/aa/azteca_internacional.png" group-title="INTERNACIONAL",Azteca Internacional
-http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="CVMX_I711.44563157.microsoft.com" tvg-name="CANAL_24711_CANAL_24711canal_24_horas_noticiasCable" tvg-logo="http://www.lyngsat-logo.com/hires/aa/azteca_internacional.png" group-title="CANALES HD",Azteca Internacional HD
-http://200.76.77.237/LIVE/H01/CANAL2/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="http://imagenes.gatotv.com/logos/canales/azteca_7-mediano.png" group-title="INTERNACIONAL",Azteca 7
-http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/azteca_7_hd.png" group-title="CANALES HD",Azteca 7 HD
-http://200.76.77.237/LIVE/H01/CANAL7/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Canal MundoFox Latinoamérica" tvg-name="Canal MundoFox Latinoamérica" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/mundofox_latinoamerica-mediano.png" group-title="ENTRETENIMIENTO",MundoFOX
-http://66.55.92.79:1935/app/ana69s-channel/.m3u8
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://imagenes.gatotv.com/logos/canales/azteca_13_-1h.png" group-title="INTERNACIONAL",El Trece
-http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://imagenes.gatotv.com/logos/canales/azteca_13_hd.png" group-title="CANALES HD",El Trece HD
-http://200.76.77.237/LIVE/H01/CANAL13/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Proyecto 40" tvg-name="Proyecto 40" tvg-logo="http://imagenes.gatotv.com/logos/canales/proyecto_40.png" group-title="INTERNACIONAL",Proyecto 40
-http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Proyecto 40" tvg-name="Proyecto 40" tvg-logo="http://imagenes.gatotv.com/logos/canales/proyecto_40.png" group-title="CANALES HD",Proyecto 40 HD
-http://200.76.77.237/LIVE/H01/CANAL40/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Canal AZCorazón" tvg-name="AZ Corazon" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/azcorazon-mediano.png" group-title="INTERNACIONAL",Az Corazon
-http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Canal AZCorazón" tvg-name="AZ Corazon" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/azcorazon-mediano.png" group-title="CANALES HD",Az Corazon HD
-http://200.76.77.237/LIVE/H01/CANAL45/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal_estrellas_mx.png" group-title="INTERNACIONAL",Canal 2
-http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://foromedios.com/uploads/gallery/category_6/gallery_5550_6_41937.png" group-title="CANALES HD",Canal 2 HD
-http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/foro_tv.png" group-title="INTERNACIONAL",Foro TV
-http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="http://imagenes.gatotv.com/logos/canales/foro_tv_hd-mediano.png" group-title="CANALES HD",Foro TV HD
-http://200.76.77.237/LIVE/H01/CANAL104/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5.gif" group-title="INTERNACIONAL",Canal 5
-http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5.gif" group-title="CANALES HD",Canal 5 HD
-http://200.76.77.237/LIVE/H01/CANAL105/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://www.lyngsat-logo.com/hires/gg/gala_tv_mx.png" group-title="INTERNACIONAL",Gala TV
-http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/gala_tv_hd-mediano.png" group-title="CANALES HD",Gala TV HD
-http://200.76.77.237/LIVE/H01/CANAL109/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal_once_tv_mx.png" group-title="INTERNACIONAL",Once TV
-http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal_once_tv_mx.png" group-title="CANALES HD",Once TV HD
-http://200.76.77.237/LIVE/H01/CANAL111/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Cadena 3" tvg-name="Cadena 3" tvg-logo="http://www.lyngsat-logo.com/hires/cc/cadena_tres.png" group-title="INTERNACIONAL",Cadena 3
-http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="TeleFórmula" tvg-name="TeleFórmula" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/teleformula.png" group-title="INTERNACIONAL",TeleFormula
-http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" tvg-logo="http://z.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif" group-title="INTERNACIONAL",Multimedios Monterrey
-http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" tvg-logo="http://z.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif" group-title="CANALES HD",Multimedios Monterrey HD
-http://200.76.77.237/LIVE/H01/CANAL167/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="CVMX_I181.305485202.microsoft.com" tvg-name="HMXTV181_HMXTV181hmx_tvCable" tvg-logo="http://www.lyngsat-logo.com/logo/tv/hh/hmx_mx.png" group-title="INTERNACIONAL",HMX
-http://200.76.77.237/LIVE/H01/CANAL169/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="CVMX_I181.305485202.microsoft.com" tvg-name="HMXTV181_HMXTV181hmx_tvCable" tvg-logo="http://www.lyngsat-logo.com/logo/tv/hh/hmx_mx.png" group-title="CANALES HD",HMX HD
-http://200.76.77.237/LIVE/H01/CANAL169/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="CINE",Fox
-http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="CANALES HD",Fox HD
-http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/sony-mediano.png" group-title="ENTRETENIMIENTO",Sony
-http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/sony_hd-mediano.png" group-title="CANALES HD",Sony HD
-http://200.76.77.237/LIVE/H01/CANAL203/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/warner-channel.gif" group-title="ENTRETENIMIENTO",Warner
-http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/warner-channel.gif" group-title="CANALES HD",Warner HD
-http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="CINE",Universal
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Universal HD" tvg-name="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="CANALES HD",Universal HD
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://x.cdn.entutele.com/media/channels/big/fx-hd.gif" group-title="ENTRETENIMIENTO",FX
-http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://x.cdn.entutele.com/media/channels/big/fx-hd.gif" group-title="CANALES HD",FX HD
-http://200.76.77.237/LIVE/H01/CANAL209/PROFILE05.m3u8?
+ 
+#EXTINF:-1,Unicable T-K
+http://31.220.40.117/LiveEdgeTesting/UnicableLA/playlist.m3u8?token=
+#EXTINF:-1,TELEMUNDO INTERNACIONAL T-K
+http://31.220.41.111/LiveEdgeTesting/_definst_/TelemundoSD/playlist.m3u8?token=
+#EXTINF:-1,Telemundo T-K
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,UNIVISION T-K
+http://31.220.41.107/LiveEdgeTesting/UnivisionEastUS/playlist.m3u8?token=
+#EXTINF:-1,NBC UNIVERSO T-K
+http://31.220.40.116/LiveEdgeTesting/NBCUniversoUS/playlist.m3u8?token=
+#EXTINF:-1,TEVEO MIAMI T-K
+http://iphone-streaming.ustream.tv:80/uhls/14034121/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Tve 24h HD T-K
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,PANAMERICANA T-K
+http://live.mvdigital.net:1935/live8/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,TeleSuR T-K
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
+#EXTINF:-1,Foro TV T-K
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+#EXTINF:-1,Canal De Las Estrellas T-K
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
+#EXTINF:-1,RCN Televisión de Colombia T-K
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+#EXTINF:-1,Caracol T-K
+http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Caracol T-K
+http://46.165.220.232:8088/live/kkkcolhd/playlist.m3u8?id=233323&wowzasessionid=3847459779&pk=9c4608318e8a703a78edd1af0f73db22f3570dde96417fd72aac9f2cf9551914
+#EXTINF:-1 tvg-id="Azteca 7 T-K" tvg-name="Azteca 7 T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/azteca_7-mediano.png" group-title="INTERNACIONAL",Azteca 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 13 HD T-K" tvg-name="Canal 13 HD T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/azteca_13_-1h.png" group-title="INTERNACIONAL",El Trece
+http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PROYECTO 40 T-K" tvg-name="Proyecto 40" tvg-logo="http://imagenes.gatotv.com/logos/canales/proyecto_40.png" group-title="INTERNACIONAL",Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,AZTECA 13 T-K
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,MEGAHD T-K
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1,FOX HD T-K
+http://31.220.41.111/LiveEdgeTesting/FOXHDLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="Sony T-K" tvg-name="Sony T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/sony-mediano.png" group-title="ENTRETENIMIENTO",Sony
+http://31.220.41.111/LiveEdgeTesting/SonyLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="Warner T-K" tvg-name="Warner T-K" tvg-logo="http://z.cdn.entutele.com/media/channels/big/warner-channel.gif" group-title="ENTRETENIMIENTO",Warner
+http://31.220.40.105/LiveEdgeTesting/WarnerLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="Universal T-K" tvg-name="Universal T-K" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="CINE",Universal
+http://31.220.41.111/LiveEdgeTesting/UniversalLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="FX T-K" tvg-name="FX T-K" tvg-logo="http://x.cdn.entutele.com/media/channels/big/fx-hd.gif" group-title="ENTRETENIMIENTO",FX
+http://31.220.41.111/LiveEdgeTesting/FXLASD/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ae.gif" group-title="ENTRETENIMIENTO",A&E
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ae.gif" group-title="CANALES HD",A&E HD
-http://200.76.77.237/LIVE/H01/CANAL211/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://imagenes.gatotv.com/logos/canales/axn.png" group-title="ENTRETENIMIENTO",AXN
-http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://imagenes.gatotv.com/logos/canales/axn_hd.png" group-title="CANALES HD",AXN HD
-http://200.76.77.237/LIVE/H01/CANAL213/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/tru_tv.png" group-title="ENTRETENIMIENTO",TruTV
-http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/tru_tv.png" group-title="CANALES HD",TruTV HD
-http://200.76.77.237/LIVE/H01/CANAL215/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" group-title="ENTRETENIMIENTO",Comedy Central
-http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://x.cdn.entutele.com/media/channels/big/comedy-central.gif" group-title="CANALES HD",Comedy Central HD
-http://200.76.77.237/LIVE/H01/CANAL217/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/unicable.png" group-title="ENTRETENIMIENTO",Unicable
-http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/unicable.png" group-title="CANALES HD",Unicable HD
-http://200.76.77.237/LIVE/H01/CANAL218/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/bbc_entertainment.png" group-title="ENTRETENIMIENTO",BBC Entertainment
-http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://imagenes.gatotv.com/logos/canales/e_entertainment_television.png" group-title="ENTRETENIMIENTO",E! Entertainment Television
-http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="ENTRETENIMIENTO",Universal Channel
-http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Universal HD" tvg-name="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="CANALES HD",Universal Channel HD
-http://200.76.77.237/LIVE/H01/CANAL256/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://z.cdn.entutele.com/media/channels/big/syfy.gif" group-title="ENTRETENIMIENTO",SyFy
-http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://x.cdn.entutele.com/media/channels/big/fx-hd.gif" group-title="ENTRETENIMIENTO",FX
-http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://x.cdn.entutele.com/media/channels/big/fx-hd.gif" group-title="CANALES HD",FX HD
-http://200.76.77.237/LIVE/H01/CANAL258/PROFILE05.m3u8?
-
+#EXTINF:-1 tvg-id="AXN T-K" tvg-name="AXN T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/axn.png" group-title="ENTRETENIMIENTO",AXN
+hhttp://31.220.41.111/LiveEdgeTesting/AXNLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="TRU TV T-K" tvg-name="TRU TV T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/tru_tv.png" group-title="ENTRETENIMIENTO",TruTV
+http://31.220.41.111/LiveEdgeTesting/TruTVSD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="COMEDY CENTRAL T-K" tvg-name="COMEDY CENTRAL T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" group-title="ENTRETENIMIENTO",Comedy Central
+http://31.220.41.111/LiveEdgeTesting/ComedyCentralLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="UNICABLE T-K" tvg-name="UNICABLE T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/unicable.png" group-title="ENTRETENIMIENTO",Unicable
+http://31.220.40.105/LiveEdgeTesting/UnicableLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="E! T-K" tvg-name="E! T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/e_entertainment_television.png" group-title="ENTRETENIMIENTO",E! Entertainment Television
+http://31.220.41.111/LiveEdgeTesting/EentertaimentSD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="Universal T-K" tvg-name="Universal T-K" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="ENTRETENIMIENTO",Universal Channel
+http://31.220.41.111/LiveEdgeTesting/UniversalLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="SYFY T-K" tvg-name="SYFY T-K" tvg-logo="http://z.cdn.entutele.com/media/channels/big/syfy.gif" group-title="ENTRETENIMIENTO",SyFy
+http://31.220.41.111/LiveEdgeTesting/SyFyLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="FX T-K" tvg-name="FX T-K" tvg-logo="http://x.cdn.entutele.com/media/channels/big/fx-hd.gif" group-title="ENTRETENIMIENTO",FX
+http://31.220.41.111/LiveEdgeTesting/FXLASD/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/elgourmet.png" group-title="ENTRETENIMIENTO",El Gourmet
 http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/el_garage.png" group-title="DEPORTE",GARAGE TV
-http://200.76.77.237/LIVE/H01/CANAL269/PROFILE02.m3u8?
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/el_garage.png" group-title="DEPORTE",Garaje TV
-http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8 
-#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="http://imagenes.gatotv.com/logos/canales/glitz.png" group-title="ENTRETENIMIENTO",Glitz
-http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="CINE",Fox Life
-http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="http://imagenes.gatotv.com/logos/canales/distrito_comedia-mediano.png" group-title="CINE",Distrito Comedia
-http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://x.cdn.entutele.com/media/channels/big/tbs.gif" group-title="CINE",TBS
-http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Casa Club" tvg-name="Casa Club" tvg-logo="http://imagenes.gatotv.com/logos/canales/casa_club-mediano.png" group-title="ENTRETENIMIENTO",Casa Club
-http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/univision_tlnovelas-mediano.png" group-title="ENTRETENIMIENTO",Tlnovelas
-http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids.png" group-title="INFANTILES",Discovery Kids
-http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="http://imagenes.gatotv.com/logos/canales/cbeebies.png" group-title="INFANTILES",CBeebies
-http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/disney_junior.png" group-title="INFANTILES",Disney Jr
-http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/disney_junior.png" group-title="CANALES HD",Disney Jr HD
-http://200.76.77.237/LIVE/H01/CANAL308/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://imagenes.gatotv.com/logos/canales/nick_jr.png" group-title="INFANTILES",Nick Jr
-http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://imagenes.gatotv.com/logos/canales/disney-mediano.png" group-title="INFANTILES",Disney Channel
-http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="GLITZ T-K" tvg-name="GLITZ T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/glitz.png" group-title="ENTRETENIMIENTO",Glitz
+http://31.220.41.111/LiveEdgeTesting/GlitzLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="FOX LIFE T-K" tvg-name="FOX LIFE T-K" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="CINE",Fox Life
+http://31.220.41.111/LiveEdgeTesting/FoxLifeSD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA T-K" tvg-name="DISTRITO COMEDIA T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/distrito_comedia-mediano.png" group-title="CINE",Distrito Comedia
+http://31.220.41.111/LiveEdgeTesting/DistritoComediaLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="TBS T-K" tvg-name="TBS T-K" tvg-logo="http://x.cdn.entutele.com/media/channels/big/tbs.gif" group-title="CINE",TBS
+http://31.220.41.111/LiveEdgeTesting/TBSLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="TLNOVELAS T-K" tvg-name="TLNOVELAS T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/univision_tlnovelas-mediano.png" group-title="ENTRETENIMIENTO",Tlnovelas
+http://31.220.41.111/LiveEdgeTesting/TlnovelasLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="DISCOVERY KIDS T-K" tvg-name="DISCOVERY KIDS T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids.png" group-title="INFANTILES",Discovery Kids
+http://31.220.41.111/LiveEdgeTesting/DiscoveryKidsSD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="CBEEBIES T-K" tvg-name="CBEEBIES T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/cbeebies.png" group-title="INFANTILES",CBeebies
+http://31.220.41.111/LiveEdgeTesting/CbeebiesLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="DISNEY JR T-K" tvg-name="DISNEY JR T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/disney_junior.png" group-title="INFANTILES",Disney Jr
+http://31.220.41.111/LiveEdgeTesting/DisneyJrLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="NICK JR T-K" tvg-name="NICK JR T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/nick_jr.png" group-title="INFANTILES",Nick Jr
+http://31.220.41.111/LiveEdgeTesting/NickJrLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="Disney Channel (SUR) T-K" tvg-name="Disney Channel (SUR) T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/disney-mediano.png" group-title="INFANTILES",Disney Channel
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CVMX_I321.304916896.microsoft.com" tvg-name="NICLA321_NICLA321nicktoons_latin_americaCable" tvg-logo="http://x.cdn.entutele.com/media/channels/big/nick-hd.gif" group-title="INFANTILES",NickToons
 http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="CVMX_I321.304916896.microsoft.com" tvg-name="NICLA321_NICLA321nicktoons_latin_americaCable" tvg-logo="http://x.cdn.entutele.com/media/channels/big/nick-hd.gif" group-title="INFANTILES",NickToons HD
-http://200.76.77.237/LIVE/H01/CANAL314/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="http://imagenes.gatotv.com/logos/canales/nickelodeon.png" group-title="INFANTILES",Nick
-http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/nick-hd.gif" group-title="CANALES HD",Nick HD
-http://200.76.77.237/LIVE/H01/CANAL315/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon" tvg-logo="http://imagenes.gatotv.com/logos/canales/nickelodeon.png" group-title="INFANTILES",Nickelodeon
-http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network.png" group-title="INFANTILES",Cartoon Network
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="NICK (SUR) T-K" tvg-name="NICK (SUR) T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/nickelodeon.png" group-title="INFANTILES",Nick
+http://31.220.41.111/LiveEdgeTesting/NickelodeonLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="CARTOON NETWORK T-K" tvg-name="CARTOON NETWORK T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network.png" group-title="INFANTILES",Cartoon Network
+http://31.220.41.111/LiveEdgeTesting/CartoonNetworkLASD/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://imagenes.gatotv.com/logos/canales/disney_hd-mediano.png" group-title="INFANTILES",DISNEY XD
 http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://imagenes.gatotv.com/logos/canales/boomerang.png" group-title="INFANTILES",Boomerang
-http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="http://imagenes.gatotv.com/logos/canales/tiin.png" group-title="INFANTILES",TIIN
-http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://imagenes.gatotv.com/logos/canales/tooncast-mediano.png" group-title="INFANTILES",Tooncast
-http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif" group-title="DOCUMENTALES",Investigacion Discovery
-http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif" group-title="CANALES HD",Investigacion Discovery HD
-http://200.76.77.237/LIVE/H01/CANAL263/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="CVMX_I242.307660269.microsoft.com" tvg-name="TNTSPA242_TNTSPA242tnt_series_panamericanoCable" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Serie.svg.png" group-title="CINE",TNT Series
-http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="CVMX_I242.307660269.microsoft.com" tvg-name="TNTSPA242_TNTSPA242tnt_series_panamericanoCable" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2000px-TNT_Serie_HD.svg.png" group-title="CANALES HD",TNT Series HD
-http://200.76.77.237/LIVE/H01/CANAL266/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="HD Theater" tvg-name="HD Theater" tvg-logo="http://i.imgur.com/E3ZBj.png" group-title="DOCUMENTALES",Discovery Theater
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="HD Theater" tvg-name="HD Theater" tvg-logo="http://i.imgur.com/E3ZBj.png" group-title="CANALES HD",Discovery Theater HD
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://x.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="DOCUMENTALES",History
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://x.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="CANALES HD",History HD
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?
-
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://x.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="DOCUMENTALES",NatGeo Wild
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://x.cdn.entutele.com/media/channels/big/natgeo-wild-hd.gif" group-title="CANALES HD",NatGeo Wild HD
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I258.234875624.microsoft.com" tvg-name="DWRLDHD258_DWRLDHD258discovery_world_hd_latin_ameriCable" tvg-logo="http://img2.wikia.nocookie.net/__cb20091111164212/logopedia/images/f/f2/Discovery_World_2009.png" group-title="DOCUMENTALES",Discovery World
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I258.234875624.microsoft.com" tvg-name="DWRLDHD258_DWRLDHD258discovery_world_hd_latin_ameriCable" tvg-logo="http://upload.wikimedia.org/wikipedia/en/3/34/Discovery_world_hd_(small_globe).png" group-title="CANALES HD",Discovery World HD
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="DOCUMENTALES",Discovery Channel
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery_Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="DOCUMENTALES",Discovery Channel
+#EXTINF:-1 tvg-id="BOOMERANG T-K" tvg-name="BOOMERANG T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/boomerang.png" group-title="INFANTILES",Boomerang
+http://31.220.41.111/LiveEdgeTesting/BoomerangLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="TOONCAST T-K" tvg-name="TOONCAST T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/tooncast-mediano.png" group-title="INFANTILES",Tooncast
+http://31.220.41.111/LiveEdgeTesting/TooncastSD/playlist.m3u8?token=
+#EXTINF:-1,BABY TV T-K
+http://31.220.41.111/LiveEdgeTesting/BabyTVLASD/playlist.m3u8?token=
+#EXTINF:-1,DRAGON BALL Z T-K
+rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
+#EXTINF:-1,DYSNEY (NORTE)T-K
+http://31.220.41.111/LiveEdgeTesting/DisneyChannelNorteHD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="DISCOVERY ID T-K" tvg-name="DISCOVERY ID T-K" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif" group-title="DOCUMENTALES",Investigacion Discovery
+http://31.220.41.111/LiveEdgeTesting/InvDiscoverySD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="TNT SERIES T-K" tvg-name="TNT SERIES T-K" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Serie.svg.png" group-title="ENTRETENIMIENTO",TNT Series
+http://31.220.41.111:80/LiveEdgeTesting/infinitoSD/chunklist_w1777499773_b1000000.m3u8?token=
+#EXTINF:-1 tvg-id="Discovery Theather T-K" tvg-name="Discovery Theather T-K" tvg-logo="http://i.imgur.com/E3ZBj.png" group-title="DOCUMENTALES",Discovery Theater
+http://31.220.41.111/LiveEdgeTesting/DiscoveryenEspanolHD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="History T-K" tvg-name="History T-K" tvg-logo="http://x.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="DOCUMENTALES",History
+http://31.220.41.111/LiveEdgeTesting/HistoryLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="History T-K" tvg-name="History T-K" tvg-logo="http://x.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="DOCUMENTALES",History (0pcion 2)
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,H2 T-K
+http://31.220.41.111/LiveEdgeTesting/H2LASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="Natgeo Wild T-K" tvg-name="Natgeo Wild T-K" tvg-logo="http://x.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="DOCUMENTALES",NatGeo Wild
+http://31.220.40.105/LiveEdgeTesting/NatGeoWildLAHD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="DISCOVERY WORLD T-K" tvg-name="DISCOVERY WORLD T-K" tvg-logo="http://img2.wikia.nocookie.net/__cb20091111164212/logopedia/images/f/f2/Discovery_World_2009.png" group-title="DOCUMENTALES",Discovery World
+http://31.220.40.108/LiveEdgeTesting/DiscoveryWorldLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="Discovery T-K" tvg-name="Discovery T-K" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="DOCUMENTALES",Discovery Channel
+http://31.220.40.105/LiveEdgeTesting/DiscoveryChLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="Discovery Channel Español (USA) T-K" tvg-name="Discovery Channel Español (USA) T-K" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="DOCUMENTALES",Discovery Channel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://z.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="DOCUMENTALES",Animal Planet
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="ENTRETENIMIENTO",Home and Health
-http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="ENTRETENIMIENTO",Home and Health HD
-http://200.76.77.237/LIVE/H01/CANAL374/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I254.176955573.microsoft.com" tvg-name="NATGEOMEX254_NATGEOMEX254national_geographic_latin_amerCable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="DOCUMENTALES",NatGeo
-http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I222.303416024.microsoft.com" tvg-name="LIFELA222_LIFELA222lifetime_latin_americaCable" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="ENTRETENIMIENTO",Lifetime
-http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="MXTotal_I381.44563318.microsoft.com" tvg-name="DSCIENL381_DSCIENL381discovery_science_latamCable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif" group-title="DOCUMENTALES",Discovery Science
-http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="DOCUMENTALES",Discovery Civilization
-http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="DOCUMENTALES",Discovery Turbo
-http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/tlc_hd.png" group-title="ENTRETENIMIENTO",TLC
-http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="WOBI TV" tvg-name="WOBI TV" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/wobi-mediano.png" group-title="ENTRETENIMIENTO",WOBI TV
-http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Fox 1 (W)" tvg-name="Fox 1" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/fox1_hd-mediano.png" group-title="CINE",Fox 1
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-id="Fox 1 (W)" tvg-name="Fox 1" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/fox1_hd-mediano.png" group-title="CANALES HD",Fox 1 HD
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Fox Action (W)" tvg-name="Fox Action" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="CINE",Fox Action
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Fox Action (W)" tvg-name="Fox Action" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="CANALES HD",Fox Action HD
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Fox Movies" tvg-name="Fox Movies" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/fox_movies-mediano.png" group-title="CINE",Fox Movies
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Fox Movies" tvg-name="Fox Movies" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/fox_movies_hd-mediano.png" group-title="CANALES HD",Fox Movies HD
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/fox_cinema-mediano.png" group-title="CINE",Fox Cinema
-http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/fox_classics-mediano.png" group-title="CINE",Fox Classics
-http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="CINE",Cinecanal
-http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="CANALES HD",Cinecanal HD
-http://200.76.77.237/LIVE/H01/CANAL430/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://imagenes.gatotv.com/logos/canales/tnt.png" group-title="CINE",TNT
-http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="TNT tvg-name="TNT" tvg-logo="http://imagenes.gatotv.com/logos/canales/tnt_hd_latinoamerica-mediano.png" group-title="CANALES HD",TNT HD
-http://200.76.77.237/LIVE/H01/CANAL435/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="http://imagenes.gatotv.com/logos/canales/golden.png" group-title="CINE",Golden
-http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/golden_hd.png" group-title="CINE",Golden HD
-http://200.76.77.237/LIVE/H01/CANAL436/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="The Film Zone (W)" tvg-name="The Film Zone" tvg-logo="http://imagenes.gatotv.com/logos/canales/the_film_zone.png" group-title="CINE",The Film Zone
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="The Film Zone (W)" tvg-name="The Film Zone" tvg-logo="http://imagenes.gatotv.com/logos/canales/the_film_zone.png" group-title="CANALES HD",The Film Zone HD
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="De Película" tvg-name="De Película" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" group-title="CINE",De Pelicula
-http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="De Película" tvg-name="De Película" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="CANALES HD",De Pelicula HD
-http://200.76.77.237/LIVE/H01/CANAL442/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://x.cdn.entutele.com/media/channels/big/amc.gif" group-title="CINE",AMC
-http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://x.cdn.entutele.com/media/channels/big/amc.gif" group-title="CANALES HD",AMC HD
-http://200.76.77.237/LIVE/H01/CANAL444/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://z.cdn.entutele.com/media/channels/big/space.gif" group-title="CINE",Space
-http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://z.cdn.entutele.com/media/channels/big/space-hd.gif" group-title="CINE",Space HD
-http://200.76.77.237/LIVE/H01/CANAL445/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Fox Family (W)" tvg-name="Fox Family" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/fox_family-mediano.png" group-title="CINE",Fox Family
-http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-w.gif" group-title="CINE",Cinecanal
-http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-w.gif" group-title="CINE",Cinecanal HD
-http://200.76.77.237/LIVE/H01/CANAL480/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Cinemax (O)" tvg-name="Cinemax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-o.gif" group-title="CINE",Cinemax
-http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt.gif" group-title="CINE",TNT
-http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I409.44563395.microsoft.com" tvg-name="GOLDII409_GOLDII409golden_edgePremium" tvg-logo="http://imagenes.gatotv.com/logos/canales/golden_edge.png" group-title="CINE",Golden Edge
-http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://z.cdn.entutele.com/media/channels/big/space.gif" group-title="CINE",Space
-http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="CINE",Studio Universal
-http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://imagenes.gatotv.com/logos/canales/i.sat.png" group-title="CINE",I.Sat
-http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="CINE",TCM
-http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://imagenes.gatotv.com/logos/canales/fox_sports-mediano.png" group-title="DEPORTE",Fox Sports
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://imagenes.gatotv.com/logos/canales/fox_sports_hd-mediano.png" group-title="CANALES HD",Fox Sports HD
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://imagenes.gatotv.com/logos/canales/fox_sports_2-mediano.png" group-title="DEPORTE",Fox Sports 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://imagenes.gatotv.com/logos/canales/fox_sports_2_hd-mediano.png" group-title="CANALES HD",Fox Sports 2 HD
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?
-
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/espn_hd.png" group-title="CANALES HD",ESPN HD
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/espn_deportes-mediano.png" group-title="DEPORTE",ESPN
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="http://imagenes.gatotv.com/logos/canales/espn_2.png" group-title="DEPORTE",ESPN 2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_3_lam.png" group-title="DEPORTE",ESPN 3
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" tvg-logo="http://api.entutele.com/media/channels/big/espn-3-hd.gif" group-title="CANALES HD",ESPN 3 HD
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="AyM Sports" tvg-name="AyM Sports" tvg-logo="http://x.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="DEPORTE",AyM Sports
-http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="http://img1.wikia.nocookie.net/__cb20120304074842/logopedia/images/b/b8/MilenioTV.png" group-title="NOTICIAS",Milenio TV
-http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="http://img1.wikia.nocookie.net/__cb20120304074842/logopedia/images/b/b8/MilenioTV.png" group-title="CANALES HD",Milenio TV HD
-http://200.76.77.237/LIVE/H01/CANAL603/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I630.44563402.microsoft.com" tvg-name="BTV630_BTV630bloomberg_en_espanolCable" tvg-logo="https://images.indiegogo.com/file_attachments/567036/files/20140508163818-BLOOMBERG-tv-LOGO.png" group-title="NOTICIAS",Bloomberg
-http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I630.44563402.microsoft.com" tvg-name="BTV630_BTV630bloomberg_en_espanolCable" tvg-logo="http://img1.wikia.nocookie.net/__cb20150309165138/logopedia/images/7/7a/BLOOMBERG_TV_HD.png" group-title="CANALES HD",Bloomberg HD
-http://200.76.77.237/LIVE/H01/CANAL610/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/mtv.png" group-title="MUSICALES",MTV
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tve.gif" group-title="INTERNACIONAL",TVE
-http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/mtv.png" group-title="MUSICALES",MTV
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I701.44563569.microsoft.com" tvg-name="MTVL701_MTVL701mtv_latino_norteCable" tvg-logo="http://imagenes.gatotv.com/logos/canales/mtv_hits.png" group-title="MUSICALES",MTV Hits
-http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="http://imagenes.gatotv.com/logos/canales/mtv_hd.png" group-title="CANALES HD",MTV Live HD
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I709.44563521.microsoft.com" tvg-name="TELEHI709_TELEHI709telehitCable" tvg-logo="http://imagenes.gatotv.com/logos/canales/telehit.png" group-title="MUSICALES",Telehit
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I709.44563521.microsoft.com" tvg-name="TELEHI709_TELEHI709telehitCable" tvg-logo="http://imagenes.gatotv.com/logos/canales/telehit_hd.png" group-title="CANALES HD",Telehit HD
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I706.180185344.microsoft.com" tvg-name="VH1706_VH1706vh1_latin_americaCable" tvg-logo="http://imagenes.gatotv.com/logos/canales/vh1.png" group-title="MUSICALES",VH1
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I706.180185344.microsoft.com" tvg-name="VH1706_VH1706vh1_latin_americaCable" tvg-logo="http://imagenes.gatotv.com/logos/canales/vh1.png" group-title="CANALES HD",VH1 HD
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I701.44563569.microsoft.com" tvg-name="MTVL701_MTVL701mtv_latino_norteCable" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/mtv.png" group-title="MUSICALES",MTV
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Animal Planet T-K" tvg-name="Animal Planet T-K" tvg-logo="http://z.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="DOCUMENTALES",Animal Planet
+http://31.220.41.111/LiveEdgeTesting/AnimalPlanetLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="DISCOVERY H&H T-K" tvg-name="DISCOVERY H&H T-K" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="ENTRETENIMIENTO",Home and Health
+http://31.220.41.111/LiveEdgeTesting/DiscoveryHomeHealthLAHD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="Natgeo T-K" tvg-name="Natgeo T-K" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="DOCUMENTALES",NatGeo
+http://31.220.41.111/LiveEdgeTesting/NatGeoLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="TLC T-K" tvg-name="TLC T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/tlc_hd.png" group-title="ENTRETENIMIENTO",TLC
+http://31.220.40.123/LiveEdgeTesting/TLCLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="WOBI T-K" tvg-name="WOBI T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/wobi-mediano.png" group-title="ENTRETENIMIENTO",WOBI TV
+http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="FOX 1 ESTE T-K" tvg-name="FOX 1 ESTE T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/fox1_hd-mediano.png" group-title="CINE",Fox 1 Este
+http://31.220.41.111/LiveEdgeTesting/FOX1OesteLASD/playlist.m3u8?token=
+#EXTINF:-1,FOX 1 OESTE T-K
+http://31.220.40.117/LiveEdgeTesting/FOX1OesteLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="FOX ACTION T-K" tvg-name="FOX ACTION T-K" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="CINE",Fox Action
+http://31.220.41.111/LiveEdgeTesting/FOXACTIONLASD/playlist.m3u8?token=
+#EXTINF:-1,FOX ACTION OESTE T-K
+http://31.220.41.103/LiveEdgeTesting/FOXActionOesteLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="FOX MOVIES T-K" tvg-name="FOX MOVIES T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/fox_movies-mediano.png" group-title="CINE",Fox Movies
+http://31.220.41.111/LiveEdgeTesting/FOXMoviesLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="FOX CINEMA T-K" tvg-name="FOX CINEMA T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/fox_cinema-mediano.png" group-title="CINE",Fox Cinema
+http://31.220.40.108/LiveEdgeTesting/FoxCinemaSD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="FOX CLASSICS T-K" tvg-name="FOX CLASSICS T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/fox_classics-mediano.png" group-title="CINE",Fox Classics
+http://31.220.41.102/LiveEdgeTesting/FOXClassicsLASD/playlist.m3u8?token=
+#EXTINF:-1,FOX COMEDY T-K
+http://31.220.41.111/LiveEdgeTesting/_definst_/FOXComedyLASD/playlist.m3u8?token=
+#EXTINF:-1,GOLDEN PREMIER 1 T-K
+http://31.220.40.108/LiveEdgeTesting/GoldenPremier1LA/playlist.m3u8?token=
+#EXTINF:-1,GOLDEN PREMIER 2 T-K
+http://31.220.41.103/LiveEdgeTesting/GoldenPremiere2LA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="CINECANAL T-K" tvg-name="CINECANAL T-K" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="CINE",Cinecanal
+http://31.220.41.111/LiveEdgeTesting/CineCanalLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="GOLDEN MULTIPLEX T-K" tvg-name="GOLDEN MULTIPLEX T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/golden.png" group-title="CINE",Golden
+http://31.220.41.111/LiveEdgeTesting/GoldenMPLXLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="THE FILM ZONE T-K" tvg-name="THE FILM ZONE T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/the_film_zone.png" group-title="CINE",The Film Zone
+http://31.220.41.111/LiveEdgeTesting/FilmZoneLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="DPELICULA T-K" tvg-name="DPELICULA T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" group-title="CINE",De Pelicula
+http://201.161.59.7/depelicula.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="AMC T-K" tvg-name="AMC T-K" tvg-logo="http://x.cdn.entutele.com/media/channels/big/amc.gif" group-title="CINE",AMC
+http://31.220.40.115/LiveEdgeTesting/AMCLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="SPACE T-K" tvg-name="SPACE T-K" tvg-logo="http://z.cdn.entutele.com/media/channels/big/space.gif" group-title="CINE",Space
+http://31.220.41.111/LiveEdgeTesting/SpaceLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="FOX FAMILY T-K" tvg-name="FOX FAMILY T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/fox_family-mediano.png" group-title="CINE",Fox Family
+http://31.220.41.111/LiveEdgeTesting/FOXFamilyLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="CINECANAL T-K" tvg-name="CINECANAL T-K" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-w.gif" group-title="CINE",Cinecanal
+http://31.220.41.111/LiveEdgeTesting/CineCanalLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="CINEMAX T-K" tvg-name="CINEMAX T-K" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-o.gif" group-title="CINE",Cinemax
+http://31.220.41.111/LiveEdgeTesting/CinemaxLASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="TNT T-K" tvg-name="TNT T-K" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt.gif" group-title="CINE",TNT
+http://31.220.41.111/LiveEdgeTesting/TNTAmericaLatinaHD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="GOLDEN EDGE T-K" tvg-name="GOLDEN EDGE T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/golden_edge.png" group-title="CINE",Golden Edge
+http://31.220.41.111/LiveEdgeTesting/GoldenEdgeLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="SPACE T-K" tvg-name="SPACE T-K" tvg-logo="http://z.cdn.entutele.com/media/channels/big/space.gif" group-title="CINE",Space
+http://31.220.41.111/LiveEdgeTesting/SpaceLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL T-K" tvg-name="STUDIO UNIVERSAL T-K" tvg-logo="http://z.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="CINE",Studio Universal
+http://31.220.41.111:80/LiveEdgeTesting/StudioUniversalSD/chunklist_w355779465_b1000000.m3u8?token=
+#EXTINF:-1 tvg-id="ISAT T-K" tvg-name="ISAT T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/i.sat.png" group-title="CINE",I.Sat
+http://31.220.41.111/LiveEdgeTesting/ISATLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="TCM T-K" tvg-name="TCM T-K" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="CINE",TCM
+http://31.220.41.111/LiveEdgeTesting/TCMSD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="MUNDO FOX T-K" tvg-name="MUNDO FOX T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/mundofox_latinoamerica-mediano.png" group-title="ENTRETENIMIENTO",MundoFOX
+http://31.220.41.111/LiveEdgeTesting/_definst_/MundoFoxSD/playlist.m3u8?token=
+#EXTINF:-1,DHE T-K
+http://201.161.59.7/dhe.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL T-K
+http://31.220.41.111/LiveEdgeTesting/ParamountChannelLatinAmericaHD/playlist.m3u8?token=
+#EXTINF:-1,SUNDANCE CHANNEL T-K
+http://31.220.41.111/LiveEdgeTesting/SundanceLA/playlist.m3u8?token=
+#EXTINF:-1,HBO T-K
+http://31.220.40.117/LiveEdgeTesting/HBOLASD/playlist.m3u8?token=
+#EXTINF:-1,HBO PLUS OESTE T-K
+http://31.220.40.100/LiveEdgeTesting/HBOPus2LASD/playlist.m3u8?token=
+#EXTINF:-1,HBO PLUS ESTE T-K
+http://31.220.40.108/LiveEdgeTesting/HBOPlusLASD/playlist.m3u8?token=
+#EXTINF:-1,HBO SIGNATURE T-K
+http://31.220.40.115/LiveEdgeTesting/HBOSignatureLASD/playlist.m3u8?token=
+#EXTINF:-1,HB2 T-K
+http://31.220.41.107/LiveEdgeTesting/HBO2SD/playlist.m3u8?token=
+#EXTINF:-1,HBO FAMILY T-K
+http://31.220.40.108/LiveEdgeTesting/HBOFamilyLASD/playlist.m3u8?token=
+#EXTINF:-1, MAX UP T-K
+http://31.220.40.118/LiveEdgeTesting/MaxUPSD/playlist.m3u8?token=
+#EXTINF:-1,MAX T-K
+http://31.220.41.111/LiveEdgeTesting/MAXLASD/playlist.m3u8?token=
+#EXTINF:-1,MAX PRIME ESTE T-K
+http://31.220.41.111/LiveEdgeTesting/MaxPrimeLASD/playlist.m3u8?token=
+#EXTINF:-1,MAX PRIME OESTE T-K
+http://31.220.40.108/LiveEdgeTesting/MaxPrime2LASD/playlist.m3u8?token=
+#EXTINF:-1,CINELATINO T-K
+http://31.220.41.111/LiveEdgeTesting/CineLatinoSD/playlist.m3u8?token=
+#EXTINF:-1,MULTICINEMA T-K
+http://201.161.59.7/multicinema.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Ultra Cine HD  T-K
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+#EXTINF:-1,Ultra Cine T-K
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlayl
+#EXTINF:-1 tvg-id="FOXSPORT T-K" tvg-name="FOXSPORT T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/fox_sports-mediano.png" group-title="DEPORTE",Fox Sports
+http://201.161.59.6/foxsports.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Fox Sports SUR T-K
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="FOXSPORT 2 T-K" tvg-name="FOXSPORT 2 T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/fox_sports_2-mediano.png" group-title="DEPORTE",Fox Sports 2
+http://31.220.41.111/LiveEdgeTesting/FoxSports2SD/playlist.m3u8?token=
+#EXTINF:-1,FOXSPORT 3 T-K
+http://31.220.41.111/LiveEdgeTesting/_definst_/FoxSports3SD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="ESPN T-K" tvg-name="ESPN T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/espn_deportes-mediano.png" group-title="DEPORTE",ESPN
+http://31.220.41.111/LiveEdgeTesting/ESPNLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="ESPN 2 T-K" tvg-name="ESPN 2 T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/espn_2.png" group-title="DEPORTE",ESPN 2
+http://31.220.41.111/LiveEdgeTesting/ESPN2LASD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="ESPN 3 T-K" tvg-name="ESPN 3 T-K" tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_3_lam.png" group-title="DEPORTE",ESPN 3
+http://31.220.41.111/LiveEdgeTesting/ESPN3LASD/playlist.m3u8?token=
+#EXTINF:-1,UNIVISION TDN T-K
+http://31.220.41.111/LiveEdgeTesting/UnivisionTDNLA/chunklist_w1325476343.m3u8?token=
+#EXTINF:-1,TDN T-K
+http://31.220.41.111/LiveEdgeTesting/_definst_/TDNMXLA/playlist.m3u8?token=
+#EXTINF:-1,UFC 1 T-K
+http://66.90.93.26:1935/live/canal086.stream/chunklist_w600485621.m3u8?username=fher1&password;=iptv
+#EXTINF:-1,UFC LATINO T-K
+http://31.220.41.111/LiveEdgeTesting/_definst_/UFCNetworkLA/playlist.m3u8?token=
+#EXTINF:-1,TYC SPORT T-K
+http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FORMULA 1 LATINO T-K
+http://31.220.41.111:1935/LiveEdgeTesting/_definst_/F1LA/chunklist_w1084274531.m3u8?token=
+#EXTINF:-1,GOLF CHANNEL T-K
+http://31.220.41.111:1935/LiveEdgeTesting/_definst_/GolfChannelLA/chunklist_w818200762.m3u8?token=
+#EXTINF:-1,BEIN SPORT T-K
+http://31.220.41.111/LiveEdgeTesting/BeinSportsLA/playlist.m3u8?token=
+#EXTINF:-1,Canal+DEPORTES T-K
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5468.m3u8
+#EXTINF:1,Canal+ Liga T-K
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5457.m3u8
+#EXTINF:-1,CMD PERU T-K
+http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,GOLTV SUR T-K
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Winsport COLOMBIA T-K
+http://futbol.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+#EXTINF:-1,Motors TV T-K
+http://46.61.226.21/hls/CH_MOTORSTV/variant.m3u8?version=2
+#EXTINF:-1,Real Madrid TV T-K
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,SEVILLAFC T-K
+http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
+#EXTINF:-1,BOXNATION T-K
+http://31.220.40.114:80/LiveEdgeTesting/boxnation.stream/playlist.m3u8?token=
+#EXTINF:-1,NBA TV T-K
+http://31.220.41.102/LiveEdgeTesting/NBATVUS/playlist.m3u8?token=
+#EXTINF:-1,NFL NETWORK T-K
+http://31.220.41.107/LiveEdgeTesting/NFLNetworkUS/playlist.m3u8?token=
+#EXTINF:-1,NHL NETWORK T-K
+http://31.220.40.105/LiveEdgeTesting/NHLNetworkHD/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="MTV T-K" tvg-name="MTV T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/mtv.png" group-title="MUSICALES",MTV
+http://31.220.41.111/LiveEdgeTesting/MTVHitsLA/playlist.m3u8?token=
+#EXTINF:-1 tvg-id="TELEHIT T-K" tvg-name="TELEHIT T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/telehit.png" group-title="MUSICALES",Telehit
+http://201.161.59.7/telehit.isml/QualityLevels(1992000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="VH1 T-K" tvg-name="VH1 T-K" tvg-logo="http://imagenes.gatotv.com/logos/canales/vh1.png" group-title="MUSICALES",VH1
+http://31.220.41.111/LiveEdgeTesting/VH1LatinoSD/playlist.m3u8?token=
 #EXTINF:-1 group-title="MUSICALES",MTV Rocks
 http://92.50.181.6/tv/1279/index.m3u8
-#EXTINF:-1 tvg-id="CVMX_I237.235634313.microsoft.com" tvg-name="MTVHTLA237_MTVHTLA237mtv_hits_latin_americaCable" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/vh1_megahits_latinoamerica-mediano.png" group-title="MUSICALES",MTV Hits
-http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I703.217704455.microsoft.com" tvg-name="VH1CL703_VH1CL703vh1_classicCable" tvg-logo="http://imagenes.gatotv.com/logos/canales/vh1_classic.png" group-title="MUSICALES",VH1 Classisc
-http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I707.44563529.microsoft.com" tvg-name="RITMO707_RITMO707ritmo_sonCable" tvg-logo="http://imagenes.gatotv.com/logos/canales/ritmoson.png" group-title="MUSICALES",Ritmoson Latino
-http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="SkyMX_I711.44563393.microsoft.com" tvg-name="BANDAMAX711_BANDAMAX711bandamaxCable" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="MUSICALES",Bandamax
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="BANDAMAX T-K" tvg-name="BANDAMAX T-K" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="MUSICALES",Bandamax
+http://31.220.41.111/LiveEdgeTesting/BandamaxLA/playlist.m3u8?token=
+#EXTINF:-1,Kiss tv T-K
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,K Music T-K
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3467
+#EXTINF:-1,A-ONE T-K
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
+#EXTINF:-1,VEVO MUSIC T-K
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?=-1
+#EXTINF:-1,VEVO MUSIC T-K
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?=-1
+#EXTINF:-1,VEVO MUSIC T-K
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?=-1
+#EXTINF:-1,Q Musica T-K
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,REGIONAL MUSIC MEXICO T-K
+http://31.220.41.111/LiveEdgeTesting/RegionalMusicLA/playlist.m3u8?token=
+#EXTINF:-1,HTV T-K
+http://31.220.41.111/LiveEdgeTesting/_definst_/HTVSD/playlist.m3u8?token=
+#EXTINF:-1,K MUSIC T-K
+http://31.220.41.111/LiveEdgeTesting/KMusicLA/playlist.m3u8?token=
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/7/70/Hip_hop_tv_it.png" group-title="MUSICALES",Hip Hop Channel
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
 #EXTINF:-1 group-title="MUSICALES",Musica SI
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6kpW6R2dkFg/UBBbokw85XI/AAAAAAAAAMQ/FhhFvjhj-mk/s1600/logo+canal+trece.png" group-title="CINE",13 HD
 http://live-edge01.telecentro.net.ar:1935/live/13hd-360/playlist.m3u8
 #EXTINF:-1 tvg-logo="group-title="CINE",TV Accion
@@ -438,7 +398,7 @@ http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
 #EXTINF:-1 tvg-logo="http://iamerica.org/wp-content/uploads/2015/02/Univision_2013_logo.png" group-title="ENTRETENIMIENTO",Univision
 http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO", Unimas
-rtmp://50.7.78.138:443/live/live_unimas12 
+rtmp://50.7.78.138:443/live/live_unimas12
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/tt/telemundo_internacional.png" group-title="ENTRETENIMIENTO",Telemundo (opcion 2)
 rtmp://podi.hopper.pw:443/live/live_telemundo34
 #EXTINF:0 tvg-id="Total_ES Canal 24 horas" tvg-name="TVE_24_horas" tvg-logo="http://upload.wikimedia.org/wikipedia/en/a/ad/TVE_Canal_24_Horas.png" group-title="NOTICIAS",TVE 24 Horas
@@ -487,10 +447,10 @@ http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 http://m.iblups.com:1935/lives/ptv1/playlist.m3u8?
 #EXTINF:-1, CIELO
 http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
-
+ 
 #EXTINF:-1, [COLOR yellow]####CANALES LATINO AMERICA####[/COLOR]
 -----------------------------------------------------------
-
+ 
 #EXTINF:-1, WB HD
 http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/WarnerHD4000.m3u8?sd=
 #EXTINF:-1, ANIME TV
@@ -537,10 +497,10 @@ http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes25
 http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/UNIHD2500.m3u8
 #EXTINF:-1, Warner Channel HD
 http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/WarnerHD1000.m3u8
-
+ 
 #EXTINF:-1, [COLOR yellow]####CANALES EN INGLES####[/COLOR]
 -----------------------------------------------------------
-
+ 
 #EXTINF:-1 tvg-id="Total_Vevo 1" tvg-name="Vevo_1" tvg-logo="vevo.png" tvg-shift="4" group-title="CANALES HD",Vevo Hits
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1 tvg-id="Total_Vevo 2" tvg-name="Vevo_2" tvg-logo="vevo.png" group-title="CANALES HD",Vevo Flow
@@ -585,7 +545,7 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:0 tvg-logo="mbc4.png" group-title="Ingles",MBC 4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-
+ 
 #EXTINF:-1 group-title="DEPORTE",PAC-12 Anistorpic
 http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_2328_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="DEPORTE"PAC National 1280*720
@@ -624,10 +584,10 @@ http://xrxs.net/video/live-p12wash-4728.m3u8
 http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:-1 group-title="DEPORTE",PAC-12 Net. (Washington) 640*360
 http://xrxs.net/video/live-p12wash-1164.m3u8
-
+ 
 #EXTINF:-1, [COLOR yellow]####CANALES ADULTOS####[/COLOR]
 ---------------------------------------------------------
-
+ 
 #EXTINF:-1 tvg-id="Total_Blue Hustler TV" tvg-name="Blue_Hustler" tvg-logo="Blue_Hustler.png" group-title="Adulto",Blue Hustler
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
 #EXTINF:-1 group-title="Adulto",PLAYBOY
@@ -676,10 +636,10 @@ http://46.105.116.159:1935/cellcast/encoder72/.m3u8?
 http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8?
 #EXTINF:-1,playboy
 http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8
-
+ 
 #EXTINF:-1, [COLOR yellow]####CANALES PELICULAS 24/7####[/COLOR]
 ----------------------------------------------------------------
-
+ 
 #EXTINF:-1, Latino Movies
 rtmp://50.7.78.138:443/live/live_latinomovies
 #EXTINF:-1, Mega Movies HD
@@ -720,10 +680,10 @@ rtmp://podi.hopper.pw:443/live/live_chespirito_mania
 rtmp://podi.hopper.pw:443/live/live_animetoontv
 #EXTINF:1,ANIME TV
 http://bit.ly/1db2S8p
-
+ 
 #EXTINF:-1, [COLOR yellow]####CANALES RELIGIOSOS####[/COLOR]
 -----------------------------------------------------------
-
+ 
 #EXTINF:-1 tvg-logo="Aliento.png" group-title="RELIGIOSO",Aliento Vision
 http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
 #EXTINF:-1 group-title="RELIGIOSO",Cristovision
@@ -734,10 +694,10 @@ http://198.154.228.82:1935/live/esnetv/playlist.m3u8#MegaIPTVArgentina
 http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8?
 #EXTINF:-1 group-title="RELIGIOSO",Mundo Catolicos
 rtmp://199.168.116.11/app/mundocatolicos-channel
-
+ 
 #EXTINF:-1, [COLOR yellow]#### RADIO ####[/COLOR]
 -------------------------------------------------------------------
-
+ 
 #EXTINF:-1 group-title="RADIO", LA MEGA WEB CAM
 http://iphone-streaming.ustream.tv/ustreamVideo/18987680/streams/live/playlist.m3u8
 #EXTINF:-1 group-title="RADIO", 50's
@@ -816,10 +776,10 @@ http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
 http://buecrplb01.cienradios.com.ar/Top_USA_32000.aac
 #EXTINF:-1 group-title="RADIO", Yoga
 http://buecrplb01.cienradios.com.ar/Yoga_32000.aac
-
+ 
 #EXTINF:-1, [COLOR yellow]####WEBCAMS USA####[/COLOR]
 -----------------------------------------------------
-
+ 
 #EXTINF:-1 group-title="WEBCAMS",Niagara Falls rtsp
 rtsp://video1.earthcam.com/fecnetwork/4559.flv
 #EXTINF:-1 group-title="WEBCAMS",Niagara waterfall mms
@@ -910,10 +870,4 @@ http://video1.earthcam.com/fecnetwork/5665.flv/hasbahca.m3u8
 http://video1.earthcam.com/fecnetwork/5005.flv/hasbahca.m3u8
 #EXTINF:-1,USA-Wildwood -New Jersey
 http://video1.earthcam.com/fecnetwork/5732.flv/hasbahca.m3u8
-
-
-
-
-
-
-
+edit this paste or clone this paste
